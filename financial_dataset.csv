@@ -1,0 +1,1342 @@
+Transaction_Date,Transaction_Amount,Transaction_Category,Transaction_Type,Income_source,Merchant,Location,Current_Amount,Credit/Debit
+01-01-2022,770.76,Pension Plans,Online Banking,Salary,Utility Company,pune,1245770.76,Credit
+01-01-2022,773.32,Savings and Investments,Online Banking,Salary,Utility Company,pune,1246544.08,Credit
+01-01-2022,614.29,Taxes,Prepaid Debit Cards,None,Local Farmers' Market,solapur,1245929.79,Debit
+01-01-2022,385.51,Part-Time Work,Prepaid Debit Cards,Investments,Healthcare Provider,mumbai,1246315.3,Credit
+01-01-2022,506.75,Consulting or Freelancing,Prepaid Debit Cards,Business,Restaurant,mumbai,1246822.04,Credit
+01-01-2022,545.22,Part-Time Work,Prepaid Debit Cards,Business,Travel Agency,satara,1247367.27,Credit
+02-01-2022,317.84,Consulting or Freelancing,Prepaid Debit Cards,Salary,Restaurant,mumbai,1247685.11,Credit
+02-01-2022,537.55,Part-Time Work,Prepaid Debit Cards,Investments,Subscription Service,pune,1248222.66,Credit
+02-01-2022,596.4,Taxes,Mobile Payments,None,Car Repair Shop,delhi,1247626.26,Debit
+02-01-2022,354.91,Consulting or Freelancing,Mobile Payments,Business,Clothing Boutique,delhi,1247981.17,Credit
+02-01-2022,723.17,Miscellaneous Expenses,Debit Card,None,Car Repair Shop,solapur,1247258,Debit
+03-01-2022,948.08,Insurance,Online Banking,None,Taxi Service,mumbai,1246309.92,Debit
+03-01-2022,346.62,Taxes,Checks,None,Local Farmers' Market,solapur,1245963.3,Debit
+04-01-2022,668.13,Social Security,Checks,Salary,Grocery Store,mumbai,1246631.43,Credit
+04-01-2022,239.18,Pension Plans,Checks,Investments,Utility Company,delhi,1246870.61,Credit
+04-01-2022,185.92,Social Security,Checks,Other,Restaurant,pune,1247056.53,Credit
+04-01-2022,793.24,Insurance,Checks,None,Coffee Shop,solapur,1246263.29,Debit
+04-01-2022,700.98,Part-Time Work,Checks,Business,Healthcare Provider,thane,1246964.28,Credit
+05-01-2022,896.1,Social Security,Checks,Other,Subscription Service,delhi,1247860.37,Credit
+05-01-2022,851.62,Miscellaneous Expenses,Prepaid Debit Cards,None,Gym Membership,nagpur,1247008.76,Debit
+05-01-2022,320.17,Pension Plans,Prepaid Debit Cards,Other,Travel Agency,pune,1247328.93,Credit
+05-01-2022,297.53,Social Security,Prepaid Debit Cards,Other,Healthcare Provider,pune,1247626.46,Credit
+06-01-2022,313.17,Charitable Donations,Checks,None,Bookstore,nagpur,1247313.29,Debit
+06-01-2022,148.74,Consulting or Freelancing,Checks,Other,Clothing Boutique,mumbai,1247462.03,Credit
+06-01-2022,943.67,Personal Care,Debit Card,None,Rent Payment,pune,1246518.36,Debit
+06-01-2022,20.87,Pension Plans,Debit Card,Other,Clothing Boutique,thane,1246539.23,Credit
+07-01-2022,320.75,Annuities,Debit Card,Investments,Utility Company,delhi,1246859.98,Credit
+07-01-2022,271.76,Savings and Investments,Debit Card,Other,Subscription Service,thane,1247131.74,Credit
+07-01-2022,174.97,Miscellaneous Expenses,Prepaid Debit Cards,None,Coffee Shop,thane,1246956.77,Debit
+07-01-2022,121.77,Consulting or Freelancing,Prepaid Debit Cards,Investments,Restaurant,thane,1247078.55,Credit
+07-01-2022,514.69,Charitable Donations,Prepaid Debit Cards,None,Bookstore,thane,1246563.85,Debit
+07-01-2022,682.12,Annuities,Prepaid Debit Cards,Salary,Electronics Store,solapur,1247245.98,Credit
+08-01-2022,656.16,Savings and Investments,Prepaid Debit Cards,Other,Utility Company,satara,1247902.14,Credit
+08-01-2022,115.6,Pension Plans,Prepaid Debit Cards,Other,Gas Station,nagpur,1248017.73,Credit
+09-01-2022,104.75,Insurance,Prepaid Debit Cards,None,Taxi Service,solapur,1247912.99,Debit
+09-01-2022,594.98,Miscellaneous Expenses,Mobile Payments,None,Coffee Shop,thane,1247318,Debit
+09-01-2022,90.04,Insurance,Online Banking,None,Rent Payment,delhi,1247227.96,Debit
+09-01-2022,147.53,Part-Time Work,Online Banking,Investments,Utility Company,satara,1247375.49,Credit
+09-01-2022,919.95,Entertainment and Leisure,Debit Card,None,ATM Withdrawal,nagpur,1246455.54,Debit
+09-01-2022,373.01,Entertainment and Leisure,Online Banking,None,Bookstore,pune,1246082.53,Debit
+10-01-2022,879.03,Personal Care,Mobile Payments,None,Gym Membership,satara,1245203.5,Debit
+10-01-2022,115.89,Personal Care,Checks,None,Bookstore,delhi,1245087.61,Debit
+11-01-2022,97.08,Consulting or Freelancing,Checks,Salary,Restaurant,solapur,1245184.7,Credit
+11-01-2022,198.39,Savings and Investments,Checks,Business,Healthcare Provider,satara,1245383.09,Credit
+11-01-2022,540.5,Consulting or Freelancing,Checks,Investments,Subscription Service,thane,1245923.59,Credit
+12-01-2022,955.83,Social Security,Checks,Investments,Healthcare Provider,thane,1246879.41,Credit
+12-01-2022,525.63,Personal Care,Mobile Payments,None,Taxi Service,delhi,1246353.78,Debit
+12-01-2022,59.65,Entertainment and Leisure,Prepaid Debit Cards,None,Taxi Service,mumbai,1246294.13,Debit
+13-01-2022,97.36,Entertainment and Leisure,Checks,None,Taxi Service,pune,1246196.77,Debit
+13-01-2022,635.37,Insurance,Mobile Payments,None,Bookstore,satara,1245561.4,Debit
+13-01-2022,795.57,Consulting or Freelancing,Mobile Payments,Business,Clothing Boutique,satara,1246356.96,Credit
+13-01-2022,910.32,Consulting or Freelancing,Mobile Payments,Salary,Grocery Store,pune,1247267.28,Credit
+13-01-2022,203.37,Part-Time Work,Mobile Payments,Salary,Gas Station,delhi,1247470.65,Credit
+13-01-2022,240.9,Savings and Investments,Mobile Payments,Investments,Restaurant,mumbai,1247711.55,Credit
+14-01-2022,558.17,Charitable Donations,Prepaid Debit Cards,None,Gym Membership,mumbai,1247153.38,Debit
+14-01-2022,678.46,Insurance,Online Banking,None,Local Farmers' Market,solapur,1246474.92,Debit
+14-01-2022,549.03,Personal Care,Online Banking,None,Gym Membership,solapur,1245925.9,Debit
+14-01-2022,639.38,Annuities,Online Banking,Salary,Grocery Store,thane,1246565.28,Credit
+14-01-2022,302.83,Annuities,Online Banking,Salary,Electronics Store,satara,1246868.11,Credit
+14-01-2022,331.76,Insurance,Mobile Payments,None,Taxi Service,nagpur,1246536.34,Debit
+15-01-2022,95.27,Insurance,Debit Card,None,ATM Withdrawal,nagpur,1246441.08,Debit
+15-01-2022,243.17,Debt Payments,Debit Card,None,Taxi Service,delhi,1246197.9,Debit
+15-01-2022,472.79,Entertainment and Leisure,Online Banking,None,ATM Withdrawal,nagpur,1245725.12,Debit
+16-01-2022,560.74,Miscellaneous Expenses,Mobile Payments,None,Coffee Shop,nagpur,1245164.38,Debit
+16-01-2022,885.51,Insurance,Prepaid Debit Cards,None,Car Repair Shop,mumbai,1244278.87,Debit
+16-01-2022,734.77,Social Security,Prepaid Debit Cards,Investments,Restaurant,thane,1245013.63,Credit
+16-01-2022,759.55,Savings and Investments,Prepaid Debit Cards,Other,Travel Agency,satara,1245773.18,Credit
+16-01-2022,311.31,Annuities,Prepaid Debit Cards,Salary,Restaurant,solapur,1246084.49,Credit
+16-01-2022,657.2,Annuities,Prepaid Debit Cards,Salary,Grocery Store,pune,1246741.7,Credit
+17-01-2022,632.04,Insurance,Checks,None,Car Repair Shop,solapur,1246109.65,Debit
+17-01-2022,134.03,Personal Care,Mobile Payments,None,Local Farmers' Market,thane,1245975.62,Debit
+18-01-2022,626.07,Part-Time Work,Mobile Payments,Business,Utility Company,solapur,1246601.69,Credit
+18-01-2022,884.72,Personal Care,Checks,None,Coffee Shop,solapur,1245716.97,Debit
+18-01-2022,350.13,Charitable Donations,Debit Card,None,Taxi Service,solapur,1245366.84,Debit
+18-01-2022,812.6,Part-Time Work,Debit Card,Investments,Subscription Service,delhi,1246179.44,Credit
+18-01-2022,98.21,Charitable Donations,Checks,None,Coffee Shop,nagpur,1246081.22,Debit
+19-01-2022,57.2,Insurance,Online Banking,None,Coffee Shop,solapur,1246024.03,Debit
+19-01-2022,278.85,Taxes,Checks,None,Car Repair Shop,delhi,1245745.18,Debit
+20-01-2022,387.37,Social Security,Checks,Business,Restaurant,solapur,1246132.55,Credit
+20-01-2022,968.54,Debt Payments,Prepaid Debit Cards,None,Coffee Shop,mumbai,1245164.01,Debit
+20-01-2022,669.54,Social Security,Prepaid Debit Cards,Investments,Healthcare Provider,thane,1245833.55,Credit
+20-01-2022,61.33,Entertainment and Leisure,Prepaid Debit Cards,None,ATM Withdrawal,delhi,1245772.22,Debit
+20-01-2022,19.1,Annuities,Prepaid Debit Cards,Investments,Travel Agency,nagpur,1245791.32,Credit
+20-01-2022,130.25,Insurance,Checks,None,Taxi Service,solapur,1245661.07,Debit
+21-01-2022,355.53,Debt Payments,Checks,None,Rent Payment,delhi,1245305.54,Debit
+21-01-2022,179.8,Savings and Investments,Checks,Investments,Grocery Store,pune,1245485.34,Credit
+21-01-2022,220.42,Taxes,Mobile Payments,None,Car Repair Shop,pune,1245264.93,Debit
+21-01-2022,67.87,Consulting or Freelancing,Mobile Payments,Investments,Restaurant,delhi,1245332.79,Credit
+21-01-2022,761.69,Taxes,Online Banking,None,Car Repair Shop,satara,1244571.1,Debit
+21-01-2022,278.63,Part-Time Work,Online Banking,Other,Electronics Store,satara,1244849.73,Credit
+22-01-2022,65.49,Social Security,Online Banking,Business,Grocery Store,solapur,1244915.23,Credit
+22-01-2022,548.29,Part-Time Work,Online Banking,Investments,Clothing Boutique,nagpur,1245463.51,Credit
+22-01-2022,269.01,Part-Time Work,Online Banking,Other,Restaurant,mumbai,1245732.52,Credit
+22-01-2022,435.53,Entertainment and Leisure,Mobile Payments,None,ATM Withdrawal,delhi,1245296.99,Debit
+22-01-2022,309.09,Charitable Donations,Online Banking,None,Local Farmers' Market,satara,1244987.91,Debit
+23-01-2022,561.85,Debt Payments,Checks,None,Local Farmers' Market,satara,1244426.06,Debit
+23-01-2022,736.59,Part-Time Work,Checks,Salary,Travel Agency,satara,1245162.65,Credit
+23-01-2022,223.62,Personal Care,Prepaid Debit Cards,None,Local Farmers' Market,mumbai,1244939.03,Debit
+23-01-2022,814.48,Consulting or Freelancing,Prepaid Debit Cards,Salary,Clothing Boutique,pune,1245753.51,Credit
+23-01-2022,807.77,Miscellaneous Expenses,Checks,None,Coffee Shop,delhi,1244945.75,Debit
+23-01-2022,367.53,Charitable Donations,Prepaid Debit Cards,None,Taxi Service,pune,1244578.22,Debit
+24-01-2022,63.9,Annuities,Prepaid Debit Cards,Other,Subscription Service,mumbai,1244642.11,Credit
+24-01-2022,460.02,Personal Care,Debit Card,None,Rent Payment,thane,1244182.1,Debit
+24-01-2022,817.31,Annuities,Debit Card,Business,Grocery Store,satara,1244999.41,Credit
+24-01-2022,841.18,Social Security,Debit Card,Investments,Restaurant,mumbai,1245840.59,Credit
+25-01-2022,675.51,Miscellaneous Expenses,Mobile Payments,None,Local Farmers' Market,pune,1245165.08,Debit
+25-01-2022,294.96,Social Security,Mobile Payments,Investments,Utility Company,nagpur,1245460.04,Credit
+25-01-2022,897.54,Consulting or Freelancing,Mobile Payments,Other,Electronics Store,mumbai,1246357.58,Credit
+26-01-2022,652.08,Personal Care,Checks,None,Bookstore,delhi,1245705.49,Debit
+26-01-2022,45.57,Part-Time Work,Checks,Business,Healthcare Provider,delhi,1245751.06,Credit
+26-01-2022,291.09,Pension Plans,Checks,Investments,Restaurant,nagpur,1246042.16,Credit
+27-01-2022,442.92,Insurance,Mobile Payments,None,Car Repair Shop,pune,1245599.24,Debit
+27-01-2022,172.92,Insurance,Mobile Payments,None,Local Farmers' Market,pune,1245426.32,Debit
+28-01-2022,622.15,Part-Time Work,Mobile Payments,Business,Grocery Store,nagpur,1246048.47,Credit
+28-01-2022,621.11,Miscellaneous Expenses,Debit Card,None,ATM Withdrawal,delhi,1245427.36,Debit
+28-01-2022,259.46,Insurance,Debit Card,None,Gym Membership,nagpur,1245167.9,Debit
+28-01-2022,748.67,Part-Time Work,Debit Card,Business,Electronics Store,mumbai,1245916.57,Credit
+28-01-2022,13.4,Debt Payments,Prepaid Debit Cards,None,Car Repair Shop,pune,1245903.18,Debit
+28-01-2022,961.12,Social Security,Prepaid Debit Cards,Investments,Restaurant,satara,1246864.3,Credit
+01-02-2022,752.06,Personal Care,Prepaid Debit Cards,None,Gym Membership,delhi,1246112.24,Debit
+01-02-2022,58.75,Entertainment and Leisure,Checks,None,Gym Membership,delhi,1246053.48,Debit
+01-02-2022,547.14,Insurance,Mobile Payments,None,Coffee Shop,pune,1245506.35,Debit
+01-02-2022,740.13,Entertainment and Leisure,Mobile Payments,None,Rent Payment,mumbai,1244766.21,Debit
+01-02-2022,13.56,Insurance,Mobile Payments,None,Car Repair Shop,mumbai,1244752.66,Debit
+02-02-2022,462.72,Consulting or Freelancing,Mobile Payments,Other,Healthcare Provider,thane,1245215.38,Credit
+02-02-2022,262.28,Social Security,Mobile Payments,Investments,Grocery Store,nagpur,1245477.65,Credit
+02-02-2022,498.29,Insurance,Mobile Payments,None,Local Farmers' Market,nagpur,1244979.36,Debit
+02-02-2022,854.21,Social Security,Mobile Payments,Investments,Subscription Service,thane,1245833.58,Credit
+02-02-2022,622.68,Entertainment and Leisure,Prepaid Debit Cards,None,Car Repair Shop,mumbai,1245210.89,Debit
+02-02-2022,639.69,Taxes,Prepaid Debit Cards,None,Gym Membership,thane,1244571.2,Debit
+03-02-2022,716.35,Debt Payments,Mobile Payments,None,Bookstore,mumbai,1243854.86,Debit
+03-02-2022,242.34,Social Security,Mobile Payments,Investments,Electronics Store,mumbai,1244097.2,Credit
+03-02-2022,341.42,Personal Care,Checks,None,Taxi Service,thane,1243755.78,Debit
+03-02-2022,353.04,Social Security,Checks,Other,Grocery Store,solapur,1244108.82,Credit
+03-02-2022,53.18,Part-Time Work,Checks,Investments,Healthcare Provider,solapur,1244162,Credit
+03-02-2022,841.8,Personal Care,Mobile Payments,None,Taxi Service,solapur,1243320.2,Debit
+04-02-2022,826.27,Miscellaneous Expenses,Mobile Payments,None,Gym Membership,satara,1242493.93,Debit
+04-02-2022,980.56,Savings and Investments,Mobile Payments,Investments,Grocery Store,solapur,1243474.49,Credit
+04-02-2022,138.39,Social Security,Mobile Payments,Investments,Gas Station,solapur,1243612.88,Credit
+04-02-2022,286.86,Personal Care,Prepaid Debit Cards,None,Bookstore,nagpur,1243326.02,Debit
+05-02-2022,939.29,Taxes,Checks,None,Gym Membership,delhi,1242386.73,Debit
+05-02-2022,395.89,Entertainment and Leisure,Mobile Payments,None,Rent Payment,pune,1241990.84,Debit
+05-02-2022,8.24,Consulting or Freelancing,Mobile Payments,Investments,Gas Station,thane,1241999.07,Credit
+05-02-2022,999.99,Consulting or Freelancing,Mobile Payments,Business,Clothing Boutique,delhi,1242999.06,Credit
+06-02-2022,204.32,Pension Plans,Mobile Payments,Investments,Gas Station,satara,1243203.38,Credit
+06-02-2022,510.08,Entertainment and Leisure,Mobile Payments,None,Taxi Service,mumbai,1242693.3,Debit
+06-02-2022,310.68,Annuities,Mobile Payments,Salary,Clothing Boutique,pune,1243003.98,Credit
+06-02-2022,659.89,Social Security,Mobile Payments,Other,Subscription Service,solapur,1243663.87,Credit
+06-02-2022,181.92,Pension Plans,Mobile Payments,Other,Gas Station,delhi,1243845.79,Credit
+07-02-2022,561.05,Entertainment and Leisure,Checks,None,Bookstore,satara,1243284.74,Debit
+07-02-2022,791.92,Consulting or Freelancing,Checks,Investments,Travel Agency,satara,1244076.66,Credit
+07-02-2022,916.29,Savings and Investments,Checks,Salary,Clothing Boutique,mumbai,1244992.96,Credit
+07-02-2022,422.09,Social Security,Checks,Salary,Grocery Store,delhi,1245415.05,Credit
+07-02-2022,535.85,Debt Payments,Prepaid Debit Cards,None,Gym Membership,pune,1244879.2,Debit
+08-02-2022,491.26,Charitable Donations,Checks,None,ATM Withdrawal,delhi,1244387.94,Debit
+08-02-2022,792.5,Savings and Investments,Checks,Investments,Grocery Store,mumbai,1245180.45,Credit
+08-02-2022,604.39,Miscellaneous Expenses,Mobile Payments,None,Taxi Service,thane,1244576.06,Debit
+08-02-2022,158.91,Savings and Investments,Mobile Payments,Investments,Travel Agency,solapur,1244734.96,Credit
+08-02-2022,835.61,Debt Payments,Checks,None,Car Repair Shop,solapur,1243899.35,Debit
+09-02-2022,210.62,Consulting or Freelancing,Checks,Business,Restaurant,pune,1244109.97,Credit
+09-02-2022,132.1,Consulting or Freelancing,Checks,Salary,Clothing Boutique,nagpur,1244242.07,Credit
+10-02-2022,734.25,Miscellaneous Expenses,Mobile Payments,None,Taxi Service,mumbai,1243507.82,Debit
+10-02-2022,765.19,Personal Care,Prepaid Debit Cards,None,ATM Withdrawal,satara,1242742.64,Debit
+11-02-2022,553.87,Entertainment and Leisure,Online Banking,None,Rent Payment,satara,1242188.77,Debit
+11-02-2022,827.17,Pension Plans,Online Banking,Business,Utility Company,solapur,1243015.94,Credit
+11-02-2022,765.22,Savings and Investments,Online Banking,Salary,Travel Agency,solapur,1243781.16,Credit
+12-02-2022,792.16,Entertainment and Leisure,Mobile Payments,None,Taxi Service,satara,1242989.01,Debit
+12-02-2022,957.36,Part-Time Work,Mobile Payments,Investments,Grocery Store,delhi,1243946.36,Credit
+12-02-2022,947.5,Taxes,Online Banking,None,Bookstore,nagpur,1242998.86,Debit
+12-02-2022,168,Pension Plans,Online Banking,Salary,Subscription Service,mumbai,1243166.86,Credit
+13-02-2022,649.47,Savings and Investments,Online Banking,Salary,Healthcare Provider,nagpur,1243816.34,Credit
+13-02-2022,751.81,Consulting or Freelancing,Online Banking,Business,Restaurant,nagpur,1244568.15,Credit
+14-02-2022,620.33,Charitable Donations,Prepaid Debit Cards,None,Coffee Shop,pune,1243947.82,Debit
+14-02-2022,501.87,Savings and Investments,Prepaid Debit Cards,Investments,Gas Station,thane,1244449.69,Credit
+14-02-2022,469.82,Consulting or Freelancing,Prepaid Debit Cards,Investments,Subscription Service,satara,1244919.51,Credit
+14-02-2022,155.37,Part-Time Work,Prepaid Debit Cards,Business,Clothing Boutique,mumbai,1245074.88,Credit
+15-02-2022,118.62,Pension Plans,Prepaid Debit Cards,Salary,Healthcare Provider,pune,1245193.51,Credit
+15-02-2022,292.48,Part-Time Work,Prepaid Debit Cards,Investments,Gas Station,delhi,1245485.98,Credit
+15-02-2022,650.79,Debt Payments,Debit Card,None,Car Repair Shop,pune,1244835.19,Debit
+15-02-2022,563.8,Annuities,Debit Card,Business,Gas Station,mumbai,1245398.99,Credit
+15-02-2022,542.09,Social Security,Debit Card,Other,Electronics Store,mumbai,1245941.08,Credit
+16-02-2022,956.68,Consulting or Freelancing,Debit Card,Investments,Clothing Boutique,solapur,1246897.76,Credit
+16-02-2022,400.34,Taxes,Prepaid Debit Cards,None,Bookstore,delhi,1246497.43,Debit
+16-02-2022,884.12,Part-Time Work,Prepaid Debit Cards,Salary,Travel Agency,thane,1247381.55,Credit
+16-02-2022,392.25,Taxes,Debit Card,None,Car Repair Shop,nagpur,1246989.3,Debit
+16-02-2022,567.15,Pension Plans,Debit Card,Other,Travel Agency,nagpur,1247556.46,Credit
+16-02-2022,98.22,Savings and Investments,Debit Card,Salary,Electronics Store,delhi,1247654.67,Credit
+17-02-2022,974.83,Miscellaneous Expenses,Online Banking,None,ATM Withdrawal,mumbai,1246679.85,Debit
+17-02-2022,152.29,Part-Time Work,Online Banking,Other,Subscription Service,nagpur,1246832.14,Credit
+17-02-2022,313.14,Annuities,Online Banking,Investments,Utility Company,satara,1247145.27,Credit
+17-02-2022,824.15,Annuities,Online Banking,Other,Restaurant,mumbai,1247969.42,Credit
+17-02-2022,595.22,Savings and Investments,Online Banking,Business,Subscription Service,pune,1248564.64,Credit
+17-02-2022,738.49,Social Security,Online Banking,Business,Grocery Store,solapur,1249303.13,Credit
+18-02-2022,833.06,Consulting or Freelancing,Online Banking,Investments,Healthcare Provider,pune,1250136.19,Credit
+18-02-2022,536.99,Debt Payments,Checks,None,Local Farmers' Market,nagpur,1249599.2,Debit
+18-02-2022,904.97,Miscellaneous Expenses,Checks,None,ATM Withdrawal,solapur,1248694.23,Debit
+18-02-2022,881.51,Social Security,Checks,Salary,Clothing Boutique,solapur,1249575.74,Credit
+19-02-2022,454.49,Taxes,Debit Card,None,Coffee Shop,pune,1249121.24,Debit
+19-02-2022,947.77,Miscellaneous Expenses,Debit Card,None,Rent Payment,thane,1248173.47,Debit
+19-02-2022,665.7,Charitable Donations,Mobile Payments,None,Bookstore,nagpur,1247507.77,Debit
+19-02-2022,54.64,Social Security,Mobile Payments,Salary,Electronics Store,delhi,1247562.41,Credit
+19-02-2022,575.21,Social Security,Mobile Payments,Business,Electronics Store,thane,1248137.62,Credit
+19-02-2022,198.64,Consulting or Freelancing,Mobile Payments,Business,Travel Agency,thane,1248336.26,Credit
+20-02-2022,619.91,Charitable Donations,Online Banking,None,Local Farmers' Market,mumbai,1247716.35,Debit
+20-02-2022,305.37,Charitable Donations,Mobile Payments,None,ATM Withdrawal,pune,1247410.98,Debit
+20-02-2022,911.93,Miscellaneous Expenses,Prepaid Debit Cards,None,ATM Withdrawal,nagpur,1246499.05,Debit
+20-02-2022,610.55,Annuities,Prepaid Debit Cards,Other,Utility Company,satara,1247109.6,Credit
+20-02-2022,595.68,Consulting or Freelancing,Prepaid Debit Cards,Salary,Grocery Store,thane,1247705.29,Credit
+20-02-2022,679.6,Miscellaneous Expenses,Prepaid Debit Cards,None,Rent Payment,nagpur,1247025.69,Debit
+21-02-2022,962.85,Pension Plans,Prepaid Debit Cards,Other,Gas Station,solapur,1247988.53,Credit
+21-02-2022,3.23,Miscellaneous Expenses,Online Banking,None,Taxi Service,solapur,1247985.31,Debit
+21-02-2022,160.48,Savings and Investments,Online Banking,Other,Healthcare Provider,nagpur,1248145.78,Credit
+21-02-2022,655.32,Miscellaneous Expenses,Checks,None,ATM Withdrawal,thane,1247490.47,Debit
+21-02-2022,818.64,Savings and Investments,Checks,Salary,Electronics Store,satara,1248309.11,Credit
+21-02-2022,905.25,Social Security,Checks,Investments,Utility Company,nagpur,1249214.36,Credit
+22-02-2022,862.49,Annuities,Checks,Investments,Utility Company,pune,1250076.85,Credit
+22-02-2022,282.96,Pension Plans,Checks,Salary,Healthcare Provider,delhi,1250359.81,Credit
+22-02-2022,860.7,Personal Care,Prepaid Debit Cards,None,Rent Payment,pune,1249499.1,Debit
+23-02-2022,945.79,Charitable Donations,Prepaid Debit Cards,None,Coffee Shop,mumbai,1248553.31,Debit
+23-02-2022,948.99,Social Security,Prepaid Debit Cards,Other,Utility Company,solapur,1249502.3,Credit
+23-02-2022,423.91,Debt Payments,Checks,None,Bookstore,pune,1249078.4,Debit
+23-02-2022,271.34,Social Security,Checks,Business,Utility Company,mumbai,1249349.74,Credit
+23-02-2022,436.68,Pension Plans,Checks,Salary,Grocery Store,pune,1249786.42,Credit
+24-02-2022,116.37,Social Security,Checks,Salary,Restaurant,solapur,1249902.79,Credit
+24-02-2022,299.57,Entertainment and Leisure,Online Banking,None,Coffee Shop,satara,1249603.22,Debit
+24-02-2022,276.64,Savings and Investments,Online Banking,Other,Subscription Service,solapur,1249879.86,Credit
+25-02-2022,825.49,Pension Plans,Online Banking,Business,Subscription Service,mumbai,1250705.35,Credit
+25-02-2022,887.62,Social Security,Online Banking,Investments,Restaurant,pune,1251592.97,Credit
+25-02-2022,916.48,Taxes,Mobile Payments,None,Gym Membership,delhi,1250676.49,Debit
+25-02-2022,730.1,Consulting or Freelancing,Mobile Payments,Investments,Utility Company,thane,1251406.59,Credit
+26-02-2022,575.81,Miscellaneous Expenses,Mobile Payments,None,Car Repair Shop,delhi,1250830.78,Debit
+26-02-2022,353.53,Part-Time Work,Mobile Payments,Other,Restaurant,delhi,1251184.31,Credit
+26-02-2022,382.56,Pension Plans,Mobile Payments,Salary,Gas Station,nagpur,1251566.87,Credit
+27-02-2022,586.74,Annuities,Mobile Payments,Salary,Clothing Boutique,nagpur,1252153.62,Credit
+27-02-2022,487.58,Consulting or Freelancing,Mobile Payments,Investments,Restaurant,thane,1252641.2,Credit
+27-02-2022,583.65,Taxes,Checks,None,Taxi Service,satara,1252057.55,Debit
+28-02-2022,260.63,Pension Plans,Checks,Investments,Travel Agency,satara,1252318.17,Credit
+28-02-2022,244.62,Savings and Investments,Checks,Other,Electronics Store,thane,1252562.79,Credit
+28-02-2022,132.79,Debt Payments,Prepaid Debit Cards,None,Car Repair Shop,satara,1252430,Debit
+28-02-2022,437.87,Pension Plans,Prepaid Debit Cards,Other,Utility Company,nagpur,1252867.87,Credit
+28-02-2022,818.51,Entertainment and Leisure,Checks,None,ATM Withdrawal,delhi,1252049.36,Debit
+28-02-2022,790.8,Annuities,Checks,Salary,Gas Station,thane,1252840.16,Credit
+01-03-2022,718.31,Savings and Investments,Checks,Other,Healthcare Provider,nagpur,1253558.47,Credit
+01-03-2022,251.45,Personal Care,Debit Card,None,Local Farmers' Market,nagpur,1253307.02,Debit
+02-03-2022,886.36,Debt Payments,Debit Card,None,Local Farmers' Market,thane,1252420.66,Debit
+02-03-2022,350.58,Annuities,Debit Card,Salary,Gas Station,solapur,1252771.24,Credit
+02-03-2022,163.18,Consulting or Freelancing,Debit Card,Other,Grocery Store,delhi,1252934.42,Credit
+02-03-2022,846.78,Savings and Investments,Debit Card,Other,Grocery Store,pune,1253781.2,Credit
+02-03-2022,448.95,Consulting or Freelancing,Debit Card,Salary,Clothing Boutique,pune,1254230.15,Credit
+02-03-2022,154.53,Miscellaneous Expenses,Checks,None,Local Farmers' Market,thane,1254075.62,Debit
+03-03-2022,864.14,Part-Time Work,Checks,Investments,Travel Agency,mumbai,1254939.76,Credit
+03-03-2022,266.18,Debt Payments,Checks,None,Coffee Shop,solapur,1254673.57,Debit
+03-03-2022,679.04,Entertainment and Leisure,Mobile Payments,None,Gym Membership,delhi,1253994.54,Debit
+03-03-2022,383.91,Consulting or Freelancing,Mobile Payments,Investments,Gas Station,mumbai,1254378.44,Credit
+03-03-2022,253.35,Consulting or Freelancing,Mobile Payments,Business,Subscription Service,delhi,1254631.79,Credit
+03-03-2022,370.16,Part-Time Work,Mobile Payments,Investments,Clothing Boutique,thane,1255001.95,Credit
+04-03-2022,970.04,Social Security,Mobile Payments,Salary,Clothing Boutique,satara,1255971.99,Credit
+04-03-2022,506.59,Pension Plans,Mobile Payments,Investments,Restaurant,pune,1256478.58,Credit
+05-03-2022,120.83,Miscellaneous Expenses,Debit Card,None,Local Farmers' Market,thane,1256357.75,Debit
+05-03-2022,914.79,Consulting or Freelancing,Debit Card,Salary,Gas Station,thane,1257272.54,Credit
+05-03-2022,874.13,Part-Time Work,Debit Card,Investments,Subscription Service,pune,1258146.67,Credit
+05-03-2022,422.98,Social Security,Debit Card,Business,Utility Company,delhi,1258569.65,Credit
+06-03-2022,756.46,Pension Plans,Debit Card,Salary,Utility Company,nagpur,1259326.11,Credit
+06-03-2022,367.66,Annuities,Debit Card,Business,Travel Agency,thane,1259693.77,Credit
+07-03-2022,715.07,Savings and Investments,Debit Card,Other,Electronics Store,pune,1260408.85,Credit
+07-03-2022,760.14,Pension Plans,Debit Card,Other,Gas Station,delhi,1261168.99,Credit
+07-03-2022,202.53,Savings and Investments,Debit Card,Other,Gas Station,nagpur,1261371.52,Credit
+07-03-2022,640.06,Miscellaneous Expenses,Debit Card,None,Bookstore,solapur,1260731.46,Debit
+07-03-2022,263.39,Miscellaneous Expenses,Checks,None,ATM Withdrawal,satara,1260468.07,Debit
+07-03-2022,263.02,Miscellaneous Expenses,Online Banking,None,ATM Withdrawal,nagpur,1260205.05,Debit
+08-03-2022,925.02,Miscellaneous Expenses,Prepaid Debit Cards,None,Local Farmers' Market,thane,1259280.03,Debit
+08-03-2022,860.19,Pension Plans,Prepaid Debit Cards,Business,Restaurant,mumbai,1260140.21,Credit
+08-03-2022,664.3,Entertainment and Leisure,Mobile Payments,None,Taxi Service,pune,1259475.92,Debit
+08-03-2022,415.54,Annuities,Mobile Payments,Other,Restaurant,delhi,1259891.46,Credit
+08-03-2022,949.83,Consulting or Freelancing,Mobile Payments,Other,Subscription Service,nagpur,1260841.29,Credit
+09-03-2022,514.27,Savings and Investments,Mobile Payments,Investments,Utility Company,solapur,1261355.56,Credit
+09-03-2022,734.07,Part-Time Work,Mobile Payments,Salary,Travel Agency,mumbai,1262089.63,Credit
+09-03-2022,245.56,Miscellaneous Expenses,Checks,None,Coffee Shop,pune,1261844.07,Debit
+10-03-2022,579.57,Insurance,Checks,None,Local Farmers' Market,satara,1261264.5,Debit
+10-03-2022,447.51,Social Security,Checks,Investments,Grocery Store,pune,1261712.01,Credit
+10-03-2022,125.2,Annuities,Checks,Business,Grocery Store,solapur,1261837.22,Credit
+11-03-2022,983.37,Personal Care,Checks,None,Rent Payment,solapur,1260853.85,Debit
+11-03-2022,551.79,Savings and Investments,Checks,Salary,Gas Station,mumbai,1261405.64,Credit
+12-03-2022,258.29,Personal Care,Debit Card,None,ATM Withdrawal,solapur,1261147.34,Debit
+12-03-2022,523.93,Insurance,Mobile Payments,None,Coffee Shop,satara,1260623.42,Debit
+13-03-2022,133.87,Entertainment and Leisure,Debit Card,None,Coffee Shop,mumbai,1260489.55,Debit
+13-03-2022,94.61,Charitable Donations,Debit Card,None,Gym Membership,delhi,1260394.94,Debit
+14-03-2022,852.43,Taxes,Online Banking,None,Rent Payment,pune,1259542.5,Debit
+14-03-2022,543.48,Savings and Investments,Online Banking,Business,Utility Company,mumbai,1260085.99,Credit
+14-03-2022,241.05,Social Security,Online Banking,Investments,Subscription Service,mumbai,1260327.03,Credit
+14-03-2022,69.64,Debt Payments,Debit Card,None,Car Repair Shop,solapur,1260257.39,Debit
+15-03-2022,694.91,Savings and Investments,Debit Card,Salary,Restaurant,nagpur,1260952.3,Credit
+15-03-2022,688.21,Insurance,Online Banking,None,ATM Withdrawal,solapur,1260264.09,Debit
+15-03-2022,256.94,Pension Plans,Online Banking,Business,Grocery Store,solapur,1260521.03,Credit
+15-03-2022,644.98,Insurance,Prepaid Debit Cards,None,Bookstore,satara,1259876.05,Debit
+15-03-2022,885.48,Pension Plans,Prepaid Debit Cards,Other,Healthcare Provider,solapur,1260761.52,Credit
+15-03-2022,489.03,Insurance,Mobile Payments,None,ATM Withdrawal,thane,1260272.49,Debit
+16-03-2022,936.02,Part-Time Work,Mobile Payments,Salary,Restaurant,pune,1261208.51,Credit
+16-03-2022,538.87,Miscellaneous Expenses,Online Banking,None,Taxi Service,nagpur,1260669.64,Debit
+16-03-2022,608.86,Charitable Donations,Checks,None,Car Repair Shop,mumbai,1260060.79,Debit
+17-03-2022,169.91,Taxes,Prepaid Debit Cards,None,Local Farmers' Market,nagpur,1259890.87,Debit
+17-03-2022,41.95,Pension Plans,Prepaid Debit Cards,Other,Clothing Boutique,mumbai,1259932.83,Credit
+17-03-2022,66.25,Consulting or Freelancing,Prepaid Debit Cards,Investments,Electronics Store,delhi,1259999.08,Credit
+18-03-2022,51.92,Personal Care,Online Banking,None,Rent Payment,solapur,1259947.15,Debit
+18-03-2022,536.52,Charitable Donations,Checks,None,Local Farmers' Market,thane,1259410.63,Debit
+18-03-2022,630.24,Debt Payments,Checks,None,Bookstore,solapur,1258780.39,Debit
+18-03-2022,40.64,Personal Care,Online Banking,None,Taxi Service,thane,1258739.75,Debit
+19-03-2022,72.06,Entertainment and Leisure,Mobile Payments,None,Car Repair Shop,mumbai,1258667.69,Debit
+19-03-2022,974.1,Debt Payments,Debit Card,None,ATM Withdrawal,thane,1257693.58,Debit
+19-03-2022,593.67,Part-Time Work,Debit Card,Business,Subscription Service,pune,1258287.26,Credit
+20-03-2022,172.02,Part-Time Work,Debit Card,Investments,Restaurant,pune,1258459.28,Credit
+20-03-2022,962.97,Pension Plans,Debit Card,Investments,Travel Agency,solapur,1259422.24,Credit
+20-03-2022,597.57,Part-Time Work,Debit Card,Business,Restaurant,solapur,1260019.81,Credit
+20-03-2022,610.77,Annuities,Debit Card,Investments,Travel Agency,pune,1260630.58,Credit
+21-03-2022,23.12,Taxes,Online Banking,None,Gym Membership,pune,1260607.46,Debit
+21-03-2022,811.38,Pension Plans,Online Banking,Other,Grocery Store,nagpur,1261418.84,Credit
+21-03-2022,864.95,Insurance,Mobile Payments,None,Car Repair Shop,delhi,1260553.89,Debit
+21-03-2022,713.86,Part-Time Work,Mobile Payments,Other,Grocery Store,delhi,1261267.75,Credit
+22-03-2022,711.31,Taxes,Debit Card,None,ATM Withdrawal,delhi,1260556.44,Debit
+22-03-2022,600.37,Pension Plans,Debit Card,Salary,Clothing Boutique,thane,1261156.81,Credit
+22-03-2022,429.26,Consulting or Freelancing,Debit Card,Business,Restaurant,pune,1261586.07,Credit
+22-03-2022,979.41,Social Security,Debit Card,Investments,Healthcare Provider,satara,1262565.49,Credit
+22-03-2022,585.73,Savings and Investments,Debit Card,Salary,Gas Station,pune,1263151.21,Credit
+23-03-2022,974.13,Debt Payments,Mobile Payments,None,Gym Membership,mumbai,1262177.08,Debit
+23-03-2022,51.02,Part-Time Work,Mobile Payments,Investments,Restaurant,nagpur,1262228.1,Credit
+24-03-2022,285.36,Pension Plans,Mobile Payments,Other,Subscription Service,delhi,1262513.46,Credit
+24-03-2022,295.29,Debt Payments,Online Banking,None,Gym Membership,satara,1262218.17,Debit
+24-03-2022,133.45,Debt Payments,Online Banking,None,Car Repair Shop,thane,1262084.72,Debit
+24-03-2022,832.96,Personal Care,Prepaid Debit Cards,None,Car Repair Shop,delhi,1261251.76,Debit
+24-03-2022,619.9,Social Security,Prepaid Debit Cards,Other,Restaurant,satara,1261871.65,Credit
+25-03-2022,479.56,Part-Time Work,Prepaid Debit Cards,Business,Gas Station,thane,1262351.22,Credit
+25-03-2022,336.85,Social Security,Prepaid Debit Cards,Other,Restaurant,mumbai,1262688.07,Credit
+25-03-2022,316.2,Annuities,Prepaid Debit Cards,Investments,Restaurant,delhi,1263004.27,Credit
+26-03-2022,660.9,Miscellaneous Expenses,Debit Card,None,Car Repair Shop,satara,1262343.37,Debit
+26-03-2022,713.5,Entertainment and Leisure,Prepaid Debit Cards,None,Taxi Service,thane,1261629.87,Debit
+26-03-2022,649,Entertainment and Leisure,Debit Card,None,ATM Withdrawal,pune,1260980.87,Debit
+26-03-2022,120.91,Annuities,Debit Card,Other,Grocery Store,delhi,1261101.78,Credit
+27-03-2022,324.55,Charitable Donations,Checks,None,ATM Withdrawal,thane,1260777.24,Debit
+27-03-2022,364.61,Insurance,Prepaid Debit Cards,None,Car Repair Shop,thane,1260412.63,Debit
+28-03-2022,721.23,Savings and Investments,Prepaid Debit Cards,Investments,Electronics Store,pune,1261133.86,Credit
+28-03-2022,464.53,Taxes,Online Banking,None,ATM Withdrawal,solapur,1260669.33,Debit
+28-03-2022,268.59,Part-Time Work,Online Banking,Salary,Electronics Store,solapur,1260937.91,Credit
+01-04-2022,585.4,Charitable Donations,Checks,None,Bookstore,mumbai,1260352.51,Debit
+01-04-2022,518.82,Savings and Investments,Checks,Salary,Electronics Store,mumbai,1260871.33,Credit
+01-04-2022,494.07,Debt Payments,Prepaid Debit Cards,None,Taxi Service,thane,1260377.26,Debit
+01-04-2022,926.6,Social Security,Prepaid Debit Cards,Other,Utility Company,solapur,1261303.86,Credit
+02-04-2022,540.13,Debt Payments,Debit Card,None,Local Farmers' Market,delhi,1260763.73,Debit
+02-04-2022,840.66,Charitable Donations,Debit Card,None,Local Farmers' Market,delhi,1259923.07,Debit
+02-04-2022,897.8,Savings and Investments,Debit Card,Other,Electronics Store,solapur,1260820.87,Credit
+02-04-2022,144.11,Debt Payments,Debit Card,None,Bookstore,delhi,1260676.76,Debit
+02-04-2022,324.3,Annuities,Debit Card,Other,Electronics Store,satara,1261001.06,Credit
+02-04-2022,188.06,Consulting or Freelancing,Debit Card,Salary,Gas Station,satara,1261189.12,Credit
+03-04-2022,11.66,Miscellaneous Expenses,Prepaid Debit Cards,None,ATM Withdrawal,mumbai,1261177.47,Debit
+03-04-2022,191.2,Miscellaneous Expenses,Checks,None,ATM Withdrawal,nagpur,1260986.27,Debit
+04-04-2022,353.47,Social Security,Checks,Other,Utility Company,nagpur,1261339.74,Credit
+04-04-2022,473.9,Consulting or Freelancing,Checks,Other,Gas Station,delhi,1261813.63,Credit
+04-04-2022,769.86,Personal Care,Mobile Payments,None,Gym Membership,mumbai,1261043.77,Debit
+04-04-2022,76.08,Savings and Investments,Mobile Payments,Business,Grocery Store,satara,1261119.85,Credit
+04-04-2022,219.85,Insurance,Mobile Payments,None,Local Farmers' Market,solapur,1260900.01,Debit
+05-04-2022,850.93,Miscellaneous Expenses,Debit Card,None,Local Farmers' Market,pune,1260049.07,Debit
+05-04-2022,36.52,Personal Care,Mobile Payments,None,Bookstore,delhi,1260012.55,Debit
+05-04-2022,881.02,Part-Time Work,Mobile Payments,Other,Clothing Boutique,delhi,1260893.57,Credit
+05-04-2022,135.84,Consulting or Freelancing,Mobile Payments,Salary,Travel Agency,pune,1261029.41,Credit
+05-04-2022,532.75,Personal Care,Mobile Payments,None,Gym Membership,solapur,1260496.66,Debit
+06-04-2022,297.74,Part-Time Work,Mobile Payments,Business,Electronics Store,pune,1260794.4,Credit
+06-04-2022,370.94,Taxes,Online Banking,None,Car Repair Shop,solapur,1260423.46,Debit
+07-04-2022,563.66,Charitable Donations,Debit Card,None,Gym Membership,mumbai,1259859.8,Debit
+07-04-2022,672.49,Part-Time Work,Debit Card,Business,Gas Station,pune,1260532.29,Credit
+08-04-2022,553.6,Annuities,Debit Card,Salary,Utility Company,pune,1261085.89,Credit
+08-04-2022,16.16,Personal Care,Checks,None,Taxi Service,thane,1261069.73,Debit
+08-04-2022,725.78,Miscellaneous Expenses,Mobile Payments,None,Bookstore,solapur,1260343.96,Debit
+08-04-2022,918.51,Part-Time Work,Mobile Payments,Salary,Utility Company,pune,1261262.47,Credit
+08-04-2022,765.32,Taxes,Mobile Payments,None,Coffee Shop,solapur,1260497.15,Debit
+09-04-2022,343.05,Personal Care,Online Banking,None,ATM Withdrawal,satara,1260154.1,Debit
+09-04-2022,746.22,Taxes,Online Banking,None,Car Repair Shop,delhi,1259407.88,Debit
+09-04-2022,101.3,Consulting or Freelancing,Online Banking,Business,Travel Agency,delhi,1259509.17,Credit
+09-04-2022,142.32,Entertainment and Leisure,Prepaid Debit Cards,None,Coffee Shop,mumbai,1259366.86,Debit
+09-04-2022,85.46,Entertainment and Leisure,Online Banking,None,Car Repair Shop,nagpur,1259281.4,Debit
+09-04-2022,907.7,Entertainment and Leisure,Online Banking,None,Coffee Shop,thane,1258373.7,Debit
+10-04-2022,78.57,Consulting or Freelancing,Online Banking,Other,Clothing Boutique,delhi,1258452.26,Credit
+10-04-2022,292.62,Annuities,Online Banking,Salary,Electronics Store,satara,1258744.88,Credit
+10-04-2022,737.62,Personal Care,Debit Card,None,Bookstore,satara,1258007.27,Debit
+10-04-2022,174.93,Part-Time Work,Debit Card,Salary,Travel Agency,satara,1258182.2,Credit
+10-04-2022,848.54,Insurance,Debit Card,None,Local Farmers' Market,pune,1257333.65,Debit
+11-04-2022,527.58,Debt Payments,Checks,None,Local Farmers' Market,nagpur,1256806.08,Debit
+11-04-2022,83.72,Charitable Donations,Mobile Payments,None,Car Repair Shop,solapur,1256722.36,Debit
+12-04-2022,600.48,Insurance,Debit Card,None,Gym Membership,thane,1256121.88,Debit
+12-04-2022,136.17,Pension Plans,Debit Card,Other,Restaurant,solapur,1256258.05,Credit
+13-04-2022,218.38,Miscellaneous Expenses,Checks,None,ATM Withdrawal,solapur,1256039.67,Debit
+13-04-2022,601.33,Insurance,Checks,None,Coffee Shop,solapur,1255438.34,Debit
+13-04-2022,202.55,Insurance,Mobile Payments,None,Gym Membership,pune,1255235.79,Debit
+14-04-2022,421.04,Debt Payments,Online Banking,None,Coffee Shop,pune,1254814.75,Debit
+14-04-2022,581.13,Debt Payments,Prepaid Debit Cards,None,Coffee Shop,solapur,1254233.62,Debit
+14-04-2022,525.41,Pension Plans,Prepaid Debit Cards,Salary,Healthcare Provider,thane,1254759.03,Credit
+14-04-2022,111.2,Part-Time Work,Prepaid Debit Cards,Investments,Grocery Store,nagpur,1254870.23,Credit
+14-04-2022,332.51,Social Security,Prepaid Debit Cards,Business,Utility Company,delhi,1255202.74,Credit
+15-04-2022,366.65,Savings and Investments,Prepaid Debit Cards,Business,Electronics Store,pune,1255569.4,Credit
+15-04-2022,374.8,Consulting or Freelancing,Prepaid Debit Cards,Investments,Gas Station,nagpur,1255944.2,Credit
+15-04-2022,138.35,Taxes,Prepaid Debit Cards,None,ATM Withdrawal,pune,1255805.85,Debit
+15-04-2022,57.07,Debt Payments,Mobile Payments,None,Bookstore,pune,1255748.78,Debit
+15-04-2022,602.3,Personal Care,Debit Card,None,Gym Membership,delhi,1255146.48,Debit
+15-04-2022,846.83,Entertainment and Leisure,Online Banking,None,Coffee Shop,solapur,1254299.65,Debit
+16-04-2022,291.18,Miscellaneous Expenses,Debit Card,None,Car Repair Shop,delhi,1254008.47,Debit
+16-04-2022,191.18,Annuities,Debit Card,Salary,Healthcare Provider,solapur,1254199.64,Credit
+16-04-2022,462.62,Savings and Investments,Debit Card,Salary,Grocery Store,delhi,1254662.26,Credit
+16-04-2022,408.85,Charitable Donations,Prepaid Debit Cards,None,ATM Withdrawal,mumbai,1254253.42,Debit
+17-04-2022,676.88,Consulting or Freelancing,Prepaid Debit Cards,Salary,Healthcare Provider,delhi,1254930.29,Credit
+17-04-2022,1.84,Personal Care,Mobile Payments,None,Bookstore,mumbai,1254928.45,Debit
+17-04-2022,243.82,Consulting or Freelancing,Mobile Payments,Other,Subscription Service,solapur,1255172.27,Credit
+17-04-2022,535.98,Pension Plans,Mobile Payments,Other,Grocery Store,mumbai,1255708.25,Credit
+17-04-2022,438.5,Miscellaneous Expenses,Checks,None,ATM Withdrawal,delhi,1255269.76,Debit
+18-04-2022,619.43,Miscellaneous Expenses,Online Banking,None,ATM Withdrawal,nagpur,1254650.33,Debit
+18-04-2022,986.82,Pension Plans,Online Banking,Business,Subscription Service,mumbai,1255637.14,Credit
+18-04-2022,719.82,Social Security,Online Banking,Business,Restaurant,delhi,1256356.96,Credit
+18-04-2022,230.19,Charitable Donations,Mobile Payments,None,Bookstore,delhi,1256126.77,Debit
+19-04-2022,144.84,Personal Care,Mobile Payments,None,Coffee Shop,nagpur,1255981.93,Debit
+19-04-2022,578.95,Annuities,Mobile Payments,Other,Grocery Store,satara,1256560.88,Credit
+19-04-2022,631.42,Pension Plans,Mobile Payments,Other,Travel Agency,pune,1257192.3,Credit
+19-04-2022,530.72,Insurance,Mobile Payments,None,Gym Membership,mumbai,1256661.58,Debit
+19-04-2022,217.26,Insurance,Online Banking,None,ATM Withdrawal,nagpur,1256444.32,Debit
+19-04-2022,581.73,Insurance,Online Banking,None,Rent Payment,solapur,1255862.6,Debit
+20-04-2022,469.88,Annuities,Online Banking,Investments,Subscription Service,thane,1256332.48,Credit
+20-04-2022,987.1,Consulting or Freelancing,Online Banking,Other,Grocery Store,mumbai,1257319.58,Credit
+20-04-2022,974.14,Consulting or Freelancing,Online Banking,Investments,Subscription Service,satara,1258293.72,Credit
+20-04-2022,802.73,Personal Care,Checks,None,Coffee Shop,mumbai,1257490.99,Debit
+20-04-2022,259.99,Charitable Donations,Checks,None,Local Farmers' Market,mumbai,1257230.99,Debit
+21-04-2022,659.8,Social Security,Checks,Business,Gas Station,satara,1257890.8,Credit
+21-04-2022,743.48,Pension Plans,Checks,Investments,Healthcare Provider,satara,1258634.28,Credit
+21-04-2022,810.06,Taxes,Online Banking,None,Coffee Shop,nagpur,1257824.22,Debit
+21-04-2022,65.98,Social Security,Online Banking,Investments,Restaurant,mumbai,1257890.19,Credit
+21-04-2022,119.42,Pension Plans,Online Banking,Business,Travel Agency,nagpur,1258009.62,Credit
+22-04-2022,911.22,Part-Time Work,Online Banking,Business,Travel Agency,pune,1258920.83,Credit
+22-04-2022,783.51,Pension Plans,Online Banking,Investments,Gas Station,delhi,1259704.35,Credit
+22-04-2022,5.77,Entertainment and Leisure,Checks,None,Local Farmers' Market,pune,1259698.58,Debit
+23-04-2022,939.43,Consulting or Freelancing,Checks,Business,Restaurant,mumbai,1260638.01,Credit
+23-04-2022,179.19,Pension Plans,Checks,Other,Healthcare Provider,satara,1260817.2,Credit
+23-04-2022,39.8,Pension Plans,Checks,Business,Grocery Store,delhi,1260857,Credit
+23-04-2022,659.83,Social Security,Checks,Business,Utility Company,mumbai,1261516.83,Credit
+23-04-2022,800.27,Entertainment and Leisure,Debit Card,None,Coffee Shop,satara,1260716.56,Debit
+24-04-2022,344.81,Taxes,Mobile Payments,None,Taxi Service,satara,1260371.75,Debit
+24-04-2022,165.84,Miscellaneous Expenses,Prepaid Debit Cards,None,Bookstore,satara,1260205.91,Debit
+24-04-2022,260.13,Debt Payments,Debit Card,None,Car Repair Shop,pune,1259945.78,Debit
+24-04-2022,428.54,Social Security,Debit Card,Other,Electronics Store,mumbai,1260374.31,Credit
+24-04-2022,151.48,Charitable Donations,Debit Card,None,Coffee Shop,solapur,1260222.83,Debit
+24-04-2022,652.46,Savings and Investments,Debit Card,Other,Subscription Service,thane,1260875.29,Credit
+25-04-2022,118.02,Personal Care,Debit Card,None,Gym Membership,satara,1260757.27,Debit
+25-04-2022,795,Entertainment and Leisure,Online Banking,None,Gym Membership,nagpur,1259962.27,Debit
+26-04-2022,667.42,Taxes,Prepaid Debit Cards,None,Coffee Shop,thane,1259294.84,Debit
+26-04-2022,758.16,Debt Payments,Checks,None,ATM Withdrawal,thane,1258536.69,Debit
+26-04-2022,488.06,Part-Time Work,Checks,Salary,Subscription Service,thane,1259024.75,Credit
+27-04-2022,871.44,Charitable Donations,Prepaid Debit Cards,None,Taxi Service,pune,1258153.31,Debit
+27-04-2022,813.59,Part-Time Work,Prepaid Debit Cards,Other,Grocery Store,delhi,1258966.91,Credit
+27-04-2022,467.46,Miscellaneous Expenses,Online Banking,None,Bookstore,thane,1258499.45,Debit
+28-04-2022,295.15,Miscellaneous Expenses,Checks,None,Rent Payment,mumbai,1258204.3,Debit
+28-04-2022,398.08,Part-Time Work,Checks,Salary,Restaurant,nagpur,1258602.39,Credit
+28-04-2022,440.74,Insurance,Debit Card,None,Car Repair Shop,nagpur,1258161.65,Debit
+28-04-2022,409.46,Debt Payments,Prepaid Debit Cards,None,Car Repair Shop,solapur,1257752.19,Debit
+01-05-2022,931.27,Pension Plans,Prepaid Debit Cards,Other,Travel Agency,solapur,1258683.46,Credit
+01-05-2022,139.62,Annuities,Prepaid Debit Cards,Salary,Restaurant,solapur,1258823.09,Credit
+01-05-2022,703.68,Entertainment and Leisure,Debit Card,None,Car Repair Shop,nagpur,1258119.41,Debit
+01-05-2022,797.97,Pension Plans,Debit Card,Other,Electronics Store,nagpur,1258917.37,Credit
+02-05-2022,105.35,Social Security,Debit Card,Investments,Healthcare Provider,thane,1259022.72,Credit
+02-05-2022,774.96,Pension Plans,Debit Card,Investments,Grocery Store,nagpur,1259797.68,Credit
+03-05-2022,615.34,Insurance,Debit Card,None,Taxi Service,nagpur,1259182.34,Debit
+03-05-2022,340.16,Consulting or Freelancing,Debit Card,Investments,Grocery Store,pune,1259522.5,Credit
+03-05-2022,285.95,Social Security,Debit Card,Investments,Utility Company,mumbai,1259808.45,Credit
+03-05-2022,839.89,Taxes,Online Banking,None,ATM Withdrawal,thane,1258968.55,Debit
+03-05-2022,241.59,Insurance,Debit Card,None,Local Farmers' Market,mumbai,1258726.96,Debit
+04-05-2022,693.18,Annuities,Debit Card,Other,Utility Company,solapur,1259420.14,Credit
+04-05-2022,623.7,Pension Plans,Debit Card,Salary,Restaurant,delhi,1260043.84,Credit
+04-05-2022,494.07,Pension Plans,Debit Card,Investments,Restaurant,delhi,1260537.91,Credit
+04-05-2022,389.64,Taxes,Online Banking,None,Taxi Service,thane,1260148.27,Debit
+04-05-2022,69.23,Annuities,Online Banking,Investments,Subscription Service,delhi,1260217.5,Credit
+05-05-2022,845.47,Insurance,Prepaid Debit Cards,None,Local Farmers' Market,solapur,1259372.03,Debit
+05-05-2022,906.7,Annuities,Prepaid Debit Cards,Salary,Utility Company,mumbai,1260278.73,Credit
+05-05-2022,107.76,Debt Payments,Checks,None,Bookstore,solapur,1260170.97,Debit
+05-05-2022,249.73,Entertainment and Leisure,Mobile Payments,None,Coffee Shop,mumbai,1259921.25,Debit
+06-05-2022,921.64,Miscellaneous Expenses,Checks,None,ATM Withdrawal,thane,1258999.6,Debit
+06-05-2022,582.76,Insurance,Prepaid Debit Cards,None,Bookstore,nagpur,1258416.84,Debit
+06-05-2022,546.21,Debt Payments,Checks,None,Taxi Service,solapur,1257870.63,Debit
+07-05-2022,438.16,Annuities,Checks,Salary,Gas Station,nagpur,1258308.79,Credit
+07-05-2022,359.38,Savings and Investments,Checks,Investments,Healthcare Provider,thane,1258668.17,Credit
+07-05-2022,566.37,Social Security,Checks,Investments,Utility Company,thane,1259234.54,Credit
+08-05-2022,476.43,Pension Plans,Checks,Salary,Subscription Service,thane,1259710.97,Credit
+08-05-2022,325.16,Pension Plans,Checks,Business,Utility Company,thane,1260036.13,Credit
+08-05-2022,37.03,Annuities,Checks,Business,Subscription Service,delhi,1260073.16,Credit
+08-05-2022,241.95,Part-Time Work,Checks,Salary,Grocery Store,pune,1260315.11,Credit
+08-05-2022,551.83,Annuities,Checks,Investments,Clothing Boutique,pune,1260866.94,Credit
+09-05-2022,724.86,Insurance,Mobile Payments,None,ATM Withdrawal,delhi,1260142.08,Debit
+09-05-2022,696.55,Entertainment and Leisure,Checks,None,Coffee Shop,delhi,1259445.53,Debit
+09-05-2022,446.28,Charitable Donations,Mobile Payments,None,Local Farmers' Market,nagpur,1258999.25,Debit
+09-05-2022,844.59,Consulting or Freelancing,Mobile Payments,Investments,Grocery Store,satara,1259843.84,Credit
+10-05-2022,349.97,Personal Care,Checks,None,Gym Membership,mumbai,1259493.87,Debit
+10-05-2022,413.08,Personal Care,Prepaid Debit Cards,None,Taxi Service,thane,1259080.78,Debit
+10-05-2022,835.11,Miscellaneous Expenses,Debit Card,None,ATM Withdrawal,mumbai,1258245.67,Debit
+10-05-2022,595.3,Taxes,Online Banking,None,Bookstore,satara,1257650.37,Debit
+11-05-2022,231.49,Consulting or Freelancing,Online Banking,Salary,Travel Agency,nagpur,1257881.87,Credit
+11-05-2022,829.03,Insurance,Debit Card,None,Coffee Shop,mumbai,1257052.84,Debit
+12-05-2022,733.52,Part-Time Work,Debit Card,Other,Utility Company,satara,1257786.36,Credit
+12-05-2022,704.38,Annuities,Debit Card,Investments,Clothing Boutique,nagpur,1258490.74,Credit
+12-05-2022,807.86,Taxes,Prepaid Debit Cards,None,Car Repair Shop,solapur,1257682.88,Debit
+12-05-2022,699.25,Savings and Investments,Prepaid Debit Cards,Investments,Subscription Service,delhi,1258382.14,Credit
+12-05-2022,676.53,Charitable Donations,Checks,None,ATM Withdrawal,delhi,1257705.6,Debit
+13-05-2022,671.33,Annuities,Checks,Other,Utility Company,satara,1258376.93,Credit
+13-05-2022,891.93,Pension Plans,Checks,Salary,Utility Company,pune,1259268.86,Credit
+13-05-2022,624.53,Charitable Donations,Online Banking,None,Coffee Shop,solapur,1258644.33,Debit
+13-05-2022,912.99,Pension Plans,Online Banking,Salary,Healthcare Provider,delhi,1259557.32,Credit
+13-05-2022,442.41,Charitable Donations,Checks,None,Bookstore,nagpur,1259114.91,Debit
+13-05-2022,697.11,Entertainment and Leisure,Checks,None,Rent Payment,solapur,1258417.8,Debit
+14-05-2022,961.63,Debt Payments,Online Banking,None,Bookstore,pune,1257456.18,Debit
+14-05-2022,807.21,Annuities,Online Banking,Other,Travel Agency,pune,1258263.38,Credit
+14-05-2022,906.3,Annuities,Online Banking,Business,Grocery Store,thane,1259169.68,Credit
+14-05-2022,524.08,Entertainment and Leisure,Debit Card,None,Local Farmers' Market,solapur,1258645.6,Debit
+14-05-2022,582.05,Savings and Investments,Debit Card,Other,Electronics Store,delhi,1259227.65,Credit
+15-05-2022,397.72,Consulting or Freelancing,Debit Card,Salary,Healthcare Provider,thane,1259625.38,Credit
+15-05-2022,686.19,Insurance,Online Banking,None,Local Farmers' Market,pune,1258939.19,Debit
+16-05-2022,404.98,Savings and Investments,Online Banking,Business,Utility Company,mumbai,1259344.16,Credit
+16-05-2022,161.18,Annuities,Online Banking,Salary,Gas Station,thane,1259505.34,Credit
+16-05-2022,567.55,Part-Time Work,Online Banking,Salary,Restaurant,delhi,1260072.9,Credit
+16-05-2022,41.99,Taxes,Online Banking,None,Coffee Shop,mumbai,1260030.91,Debit
+16-05-2022,867.5,Savings and Investments,Online Banking,Salary,Grocery Store,nagpur,1260898.41,Credit
+17-05-2022,635.05,Part-Time Work,Online Banking,Business,Grocery Store,pune,1261533.46,Credit
+17-05-2022,97,Consulting or Freelancing,Online Banking,Investments,Electronics Store,pune,1261630.46,Credit
+18-05-2022,270.9,Part-Time Work,Online Banking,Business,Grocery Store,thane,1261901.35,Credit
+18-05-2022,74.97,Social Security,Online Banking,Other,Travel Agency,delhi,1261976.32,Credit
+18-05-2022,89.79,Part-Time Work,Online Banking,Business,Electronics Store,thane,1262066.11,Credit
+18-05-2022,161.55,Insurance,Checks,None,Coffee Shop,satara,1261904.57,Debit
+18-05-2022,300.29,Charitable Donations,Prepaid Debit Cards,None,Local Farmers' Market,nagpur,1261604.28,Debit
+18-05-2022,93.61,Personal Care,Mobile Payments,None,Local Farmers' Market,thane,1261510.67,Debit
+19-05-2022,284.44,Part-Time Work,Mobile Payments,Other,Healthcare Provider,satara,1261795.11,Credit
+19-05-2022,586.4,Savings and Investments,Mobile Payments,Business,Utility Company,delhi,1262381.51,Credit
+19-05-2022,464.62,Charitable Donations,Debit Card,None,ATM Withdrawal,satara,1261916.89,Debit
+19-05-2022,59.15,Pension Plans,Debit Card,Salary,Healthcare Provider,satara,1261976.04,Credit
+20-05-2022,181.02,Entertainment and Leisure,Debit Card,None,Coffee Shop,thane,1261795.02,Debit
+20-05-2022,966.26,Annuities,Debit Card,Other,Clothing Boutique,satara,1262761.28,Credit
+21-05-2022,645.78,Annuities,Debit Card,Other,Clothing Boutique,thane,1263407.07,Credit
+21-05-2022,236.23,Consulting or Freelancing,Debit Card,Other,Utility Company,delhi,1263643.3,Credit
+21-05-2022,769.29,Insurance,Online Banking,None,ATM Withdrawal,thane,1262874.01,Debit
+21-05-2022,74.66,Annuities,Online Banking,Business,Travel Agency,pune,1262948.67,Credit
+21-05-2022,38.22,Part-Time Work,Online Banking,Investments,Subscription Service,nagpur,1262986.9,Credit
+21-05-2022,346.13,Part-Time Work,Online Banking,Investments,Subscription Service,nagpur,1263333.02,Credit
+22-05-2022,633.3,Pension Plans,Online Banking,Investments,Healthcare Provider,delhi,1263966.32,Credit
+22-05-2022,193.99,Charitable Donations,Online Banking,None,Bookstore,thane,1263772.32,Debit
+22-05-2022,956.08,Consulting or Freelancing,Online Banking,Business,Clothing Boutique,mumbai,1264728.4,Credit
+23-05-2022,253.8,Pension Plans,Online Banking,Investments,Electronics Store,solapur,1264982.2,Credit
+23-05-2022,452.94,Consulting or Freelancing,Online Banking,Salary,Grocery Store,thane,1265435.13,Credit
+24-05-2022,604.63,Insurance,Prepaid Debit Cards,None,Rent Payment,satara,1264830.5,Debit
+24-05-2022,485.86,Debt Payments,Online Banking,None,Gym Membership,thane,1264344.64,Debit
+24-05-2022,928.39,Debt Payments,Checks,None,Gym Membership,satara,1263416.25,Debit
+24-05-2022,776.33,Consulting or Freelancing,Checks,Business,Subscription Service,solapur,1264192.58,Credit
+24-05-2022,522.45,Debt Payments,Prepaid Debit Cards,None,Gym Membership,delhi,1263670.13,Debit
+24-05-2022,963.81,Social Security,Prepaid Debit Cards,Salary,Subscription Service,delhi,1264633.94,Credit
+25-05-2022,757.16,Debt Payments,Online Banking,None,Taxi Service,satara,1263876.79,Debit
+25-05-2022,344.18,Pension Plans,Online Banking,Investments,Grocery Store,nagpur,1264220.96,Credit
+26-05-2022,554.48,Debt Payments,Debit Card,None,Car Repair Shop,pune,1263666.48,Debit
+26-05-2022,365.18,Pension Plans,Debit Card,Salary,Grocery Store,thane,1264031.66,Credit
+26-05-2022,937.89,Charitable Donations,Checks,None,Rent Payment,thane,1263093.77,Debit
+27-05-2022,681.64,Savings and Investments,Checks,Business,Grocery Store,solapur,1263775.41,Credit
+27-05-2022,833.8,Insurance,Checks,None,Coffee Shop,solapur,1262941.62,Debit
+27-05-2022,898.85,Part-Time Work,Checks,Investments,Subscription Service,mumbai,1263840.47,Credit
+28-05-2022,256.03,Annuities,Checks,Business,Electronics Store,thane,1264096.5,Credit
+28-05-2022,494.53,Charitable Donations,Checks,None,Local Farmers' Market,solapur,1263601.97,Debit
+28-05-2022,985.6,Consulting or Freelancing,Checks,Business,Travel Agency,satara,1264587.56,Credit
+28-05-2022,925.74,Taxes,Mobile Payments,None,ATM Withdrawal,solapur,1263661.82,Debit
+01-06-2022,337.09,Entertainment and Leisure,Mobile Payments,None,Rent Payment,satara,1263324.72,Debit
+01-06-2022,995.59,Social Security,Mobile Payments,Investments,Utility Company,nagpur,1264320.31,Credit
+01-06-2022,387.07,Charitable Donations,Mobile Payments,None,Bookstore,pune,1263933.24,Debit
+01-06-2022,369.7,Miscellaneous Expenses,Debit Card,None,ATM Withdrawal,satara,1263563.54,Debit
+02-06-2022,488.64,Debt Payments,Prepaid Debit Cards,None,Rent Payment,nagpur,1263074.91,Debit
+02-06-2022,960.15,Annuities,Prepaid Debit Cards,Investments,Subscription Service,thane,1264035.06,Credit
+02-06-2022,718.76,Miscellaneous Expenses,Mobile Payments,None,Rent Payment,solapur,1263316.29,Debit
+02-06-2022,688.75,Pension Plans,Mobile Payments,Business,Restaurant,pune,1264005.04,Credit
+02-06-2022,840.64,Debt Payments,Checks,None,ATM Withdrawal,solapur,1263164.4,Debit
+03-06-2022,570.24,Charitable Donations,Prepaid Debit Cards,None,ATM Withdrawal,thane,1262594.16,Debit
+03-06-2022,838.19,Pension Plans,Prepaid Debit Cards,Investments,Utility Company,solapur,1263432.35,Credit
+03-06-2022,124.73,Debt Payments,Online Banking,None,Taxi Service,delhi,1263307.62,Debit
+03-06-2022,514.94,Debt Payments,Online Banking,None,Coffee Shop,thane,1262792.68,Debit
+04-06-2022,147.02,Charitable Donations,Debit Card,None,Rent Payment,mumbai,1262645.66,Debit
+04-06-2022,280.08,Debt Payments,Checks,None,Coffee Shop,solapur,1262365.59,Debit
+04-06-2022,999.38,Entertainment and Leisure,Mobile Payments,None,Gym Membership,solapur,1261366.21,Debit
+05-06-2022,450.39,Part-Time Work,Mobile Payments,Business,Restaurant,nagpur,1261816.6,Credit
+05-06-2022,657.73,Social Security,Mobile Payments,Business,Gas Station,thane,1262474.33,Credit
+05-06-2022,425.15,Social Security,Mobile Payments,Other,Grocery Store,delhi,1262899.49,Credit
+06-06-2022,202.43,Pension Plans,Mobile Payments,Investments,Restaurant,delhi,1263101.92,Credit
+06-06-2022,109.78,Pension Plans,Mobile Payments,Investments,Travel Agency,nagpur,1263211.7,Credit
+07-06-2022,635.72,Social Security,Mobile Payments,Investments,Utility Company,nagpur,1263847.41,Credit
+07-06-2022,446.01,Entertainment and Leisure,Online Banking,None,Coffee Shop,nagpur,1263401.4,Debit
+07-06-2022,686.26,Social Security,Online Banking,Other,Gas Station,pune,1264087.66,Credit
+07-06-2022,457.9,Social Security,Online Banking,Business,Gas Station,nagpur,1264545.56,Credit
+07-06-2022,623.07,Savings and Investments,Online Banking,Salary,Subscription Service,solapur,1265168.63,Credit
+07-06-2022,989.65,Part-Time Work,Online Banking,Other,Restaurant,delhi,1266158.28,Credit
+08-06-2022,100.87,Insurance,Prepaid Debit Cards,None,ATM Withdrawal,nagpur,1266057.42,Debit
+08-06-2022,926.07,Savings and Investments,Prepaid Debit Cards,Salary,Subscription Service,pune,1266983.48,Credit
+08-06-2022,750.04,Debt Payments,Checks,None,Local Farmers' Market,satara,1266233.44,Debit
+08-06-2022,908.52,Insurance,Mobile Payments,None,Car Repair Shop,thane,1265324.92,Debit
+08-06-2022,264.64,Social Security,Mobile Payments,Business,Travel Agency,thane,1265589.56,Credit
+08-06-2022,431.42,Consulting or Freelancing,Mobile Payments,Other,Electronics Store,thane,1266020.98,Credit
+09-06-2022,582.98,Social Security,Mobile Payments,Salary,Grocery Store,satara,1266603.96,Credit
+09-06-2022,924.96,Charitable Donations,Debit Card,None,Bookstore,nagpur,1265679,Debit
+09-06-2022,287.25,Annuities,Debit Card,Salary,Clothing Boutique,delhi,1265966.25,Credit
+09-06-2022,39.6,Part-Time Work,Debit Card,Investments,Restaurant,delhi,1266005.85,Credit
+10-06-2022,969.43,Charitable Donations,Debit Card,None,Gym Membership,delhi,1265036.42,Debit
+10-06-2022,439.31,Savings and Investments,Debit Card,Salary,Subscription Service,mumbai,1265475.73,Credit
+10-06-2022,465.41,Debt Payments,Checks,None,Local Farmers' Market,mumbai,1265010.32,Debit
+11-06-2022,998.86,Miscellaneous Expenses,Debit Card,None,Taxi Service,thane,1264011.45,Debit
+11-06-2022,608.63,Consulting or Freelancing,Debit Card,Salary,Grocery Store,thane,1264620.09,Credit
+11-06-2022,664.4,Part-Time Work,Debit Card,Investments,Healthcare Provider,satara,1265284.49,Credit
+12-06-2022,535.49,Consulting or Freelancing,Debit Card,Salary,Gas Station,satara,1265819.98,Credit
+12-06-2022,918.79,Taxes,Debit Card,None,Rent Payment,thane,1264901.19,Debit
+12-06-2022,874.1,Insurance,Debit Card,None,Local Farmers' Market,thane,1264027.09,Debit
+12-06-2022,259.65,Part-Time Work,Debit Card,Investments,Grocery Store,delhi,1264286.74,Credit
+13-06-2022,540.5,Debt Payments,Online Banking,None,Coffee Shop,solapur,1263746.24,Debit
+13-06-2022,367.45,Charitable Donations,Mobile Payments,None,Coffee Shop,nagpur,1263378.79,Debit
+13-06-2022,800.75,Charitable Donations,Prepaid Debit Cards,None,Local Farmers' Market,solapur,1262578.04,Debit
+13-06-2022,85.87,Pension Plans,Prepaid Debit Cards,Investments,Subscription Service,thane,1262663.92,Credit
+14-06-2022,794.29,Miscellaneous Expenses,Mobile Payments,None,ATM Withdrawal,delhi,1261869.63,Debit
+14-06-2022,906.76,Personal Care,Debit Card,None,Gym Membership,delhi,1260962.87,Debit
+14-06-2022,91.57,Miscellaneous Expenses,Debit Card,None,ATM Withdrawal,nagpur,1260871.3,Debit
+14-06-2022,490.51,Taxes,Checks,None,Bookstore,solapur,1260380.79,Debit
+15-06-2022,962.08,Miscellaneous Expenses,Mobile Payments,None,Coffee Shop,delhi,1259418.71,Debit
+15-06-2022,546.75,Pension Plans,Mobile Payments,Business,Subscription Service,thane,1259965.46,Credit
+16-06-2022,420.18,Part-Time Work,Mobile Payments,Business,Restaurant,mumbai,1260385.64,Credit
+16-06-2022,858.47,Personal Care,Debit Card,None,Coffee Shop,delhi,1259527.17,Debit
+16-06-2022,546.63,Consulting or Freelancing,Debit Card,Salary,Subscription Service,nagpur,1260073.8,Credit
+16-06-2022,302.15,Entertainment and Leisure,Debit Card,None,Gym Membership,pune,1259771.65,Debit
+17-06-2022,659.7,Personal Care,Online Banking,None,ATM Withdrawal,pune,1259111.94,Debit
+17-06-2022,285.59,Insurance,Online Banking,None,Rent Payment,delhi,1258826.35,Debit
+17-06-2022,949.93,Personal Care,Checks,None,Local Farmers' Market,satara,1257876.42,Debit
+17-06-2022,447.46,Social Security,Checks,Salary,Subscription Service,nagpur,1258323.88,Credit
+17-06-2022,742.31,Entertainment and Leisure,Prepaid Debit Cards,None,Bookstore,satara,1257581.57,Debit
+17-06-2022,753.64,Savings and Investments,Prepaid Debit Cards,Other,Travel Agency,mumbai,1258335.21,Credit
+18-06-2022,358.43,Part-Time Work,Prepaid Debit Cards,Investments,Healthcare Provider,thane,1258693.64,Credit
+18-06-2022,503.85,Part-Time Work,Prepaid Debit Cards,Business,Electronics Store,mumbai,1259197.49,Credit
+18-06-2022,347.9,Annuities,Prepaid Debit Cards,Investments,Gas Station,mumbai,1259545.39,Credit
+19-06-2022,525.99,Savings and Investments,Prepaid Debit Cards,Business,Travel Agency,satara,1260071.38,Credit
+19-06-2022,833.22,Part-Time Work,Prepaid Debit Cards,Salary,Restaurant,pune,1260904.6,Credit
+19-06-2022,623.52,Social Security,Prepaid Debit Cards,Investments,Subscription Service,pune,1261528.12,Credit
+20-06-2022,158.98,Consulting or Freelancing,Prepaid Debit Cards,Business,Restaurant,pune,1261687.1,Credit
+20-06-2022,801.12,Pension Plans,Prepaid Debit Cards,Business,Subscription Service,nagpur,1262488.22,Credit
+20-06-2022,302.71,Debt Payments,Checks,None,Bookstore,pune,1262185.51,Debit
+20-06-2022,883.77,Social Security,Checks,Investments,Subscription Service,thane,1263069.29,Credit
+20-06-2022,897.47,Personal Care,Debit Card,None,Bookstore,pune,1262171.82,Debit
+21-06-2022,836.39,Taxes,Online Banking,None,Car Repair Shop,thane,1261335.43,Debit
+21-06-2022,131.22,Taxes,Debit Card,None,Rent Payment,pune,1261204.21,Debit
+21-06-2022,386.94,Taxes,Mobile Payments,None,Gym Membership,thane,1260817.27,Debit
+21-06-2022,938.44,Miscellaneous Expenses,Prepaid Debit Cards,None,Coffee Shop,nagpur,1259878.83,Debit
+21-06-2022,996.25,Insurance,Online Banking,None,Taxi Service,thane,1258882.57,Debit
+21-06-2022,622.89,Personal Care,Prepaid Debit Cards,None,Local Farmers' Market,pune,1258259.68,Debit
+22-06-2022,678.27,Taxes,Mobile Payments,None,Rent Payment,delhi,1257581.42,Debit
+22-06-2022,246.22,Entertainment and Leisure,Online Banking,None,Local Farmers' Market,thane,1257335.2,Debit
+23-06-2022,318.69,Savings and Investments,Online Banking,Business,Electronics Store,satara,1257653.88,Credit
+23-06-2022,856.15,Personal Care,Prepaid Debit Cards,None,Car Repair Shop,nagpur,1256797.73,Debit
+23-06-2022,506.8,Consulting or Freelancing,Prepaid Debit Cards,Other,Electronics Store,mumbai,1257304.53,Credit
+23-06-2022,459.55,Entertainment and Leisure,Online Banking,None,ATM Withdrawal,pune,1256844.98,Debit
+24-06-2022,52.16,Savings and Investments,Online Banking,Salary,Healthcare Provider,satara,1256897.14,Credit
+24-06-2022,183.07,Insurance,Online Banking,None,Coffee Shop,satara,1256714.07,Debit
+24-06-2022,940.71,Part-Time Work,Online Banking,Salary,Restaurant,thane,1257654.78,Credit
+24-06-2022,81.19,Consulting or Freelancing,Online Banking,Salary,Grocery Store,solapur,1257735.97,Credit
+24-06-2022,42.79,Miscellaneous Expenses,Prepaid Debit Cards,None,Coffee Shop,delhi,1257693.18,Debit
+24-06-2022,368.93,Taxes,Checks,None,Gym Membership,pune,1257324.25,Debit
+25-06-2022,239.34,Part-Time Work,Checks,Investments,Gas Station,solapur,1257563.59,Credit
+25-06-2022,130,Debt Payments,Debit Card,None,Bookstore,pune,1257433.59,Debit
+25-06-2022,389.22,Debt Payments,Checks,None,Local Farmers' Market,delhi,1257044.37,Debit
+25-06-2022,538.6,Pension Plans,Checks,Business,Subscription Service,mumbai,1257582.97,Credit
+25-06-2022,730.15,Entertainment and Leisure,Checks,None,Car Repair Shop,nagpur,1256852.82,Debit
+25-06-2022,979.35,Debt Payments,Online Banking,None,Coffee Shop,solapur,1255873.47,Debit
+26-06-2022,586.16,Charitable Donations,Online Banking,None,Bookstore,nagpur,1255287.31,Debit
+26-06-2022,737.91,Annuities,Online Banking,Salary,Utility Company,mumbai,1256025.22,Credit
+27-06-2022,753.95,Social Security,Online Banking,Salary,Clothing Boutique,satara,1256779.17,Credit
+27-06-2022,362.59,Taxes,Mobile Payments,None,ATM Withdrawal,satara,1256416.58,Debit
+27-06-2022,382.96,Part-Time Work,Mobile Payments,Salary,Restaurant,pune,1256799.54,Credit
+28-06-2022,596.29,Savings and Investments,Mobile Payments,Salary,Utility Company,mumbai,1257395.83,Credit
+28-06-2022,804.91,Debt Payments,Online Banking,None,Rent Payment,mumbai,1256590.93,Debit
+28-06-2022,566.5,Consulting or Freelancing,Online Banking,Investments,Healthcare Provider,nagpur,1257157.42,Credit
+28-06-2022,856.46,Miscellaneous Expenses,Prepaid Debit Cards,None,Gym Membership,pune,1256300.96,Debit
+28-06-2022,410.9,Consulting or Freelancing,Prepaid Debit Cards,Investments,Subscription Service,solapur,1256711.86,Credit
+01-07-2022,936.82,Insurance,Debit Card,None,Car Repair Shop,thane,1255775.04,Debit
+01-07-2022,460.85,Entertainment and Leisure,Prepaid Debit Cards,None,Gym Membership,thane,1255314.19,Debit
+01-07-2022,207.46,Taxes,Debit Card,None,Rent Payment,mumbai,1255106.74,Debit
+01-07-2022,587.99,Taxes,Debit Card,None,Rent Payment,satara,1254518.75,Debit
+01-07-2022,424.74,Miscellaneous Expenses,Checks,None,Gym Membership,thane,1254094.01,Debit
+02-07-2022,710.86,Insurance,Mobile Payments,None,Taxi Service,thane,1253383.15,Debit
+02-07-2022,221.83,Social Security,Mobile Payments,Business,Healthcare Provider,thane,1253604.98,Credit
+03-07-2022,217.39,Insurance,Prepaid Debit Cards,None,Coffee Shop,thane,1253387.59,Debit
+03-07-2022,211.88,Savings and Investments,Prepaid Debit Cards,Salary,Restaurant,thane,1253599.47,Credit
+04-07-2022,132.2,Savings and Investments,Prepaid Debit Cards,Business,Healthcare Provider,nagpur,1253731.67,Credit
+04-07-2022,18.32,Insurance,Prepaid Debit Cards,None,Coffee Shop,pune,1253713.35,Debit
+04-07-2022,821.46,Part-Time Work,Prepaid Debit Cards,Salary,Gas Station,satara,1254534.82,Credit
+04-07-2022,382.92,Savings and Investments,Prepaid Debit Cards,Business,Healthcare Provider,solapur,1254917.74,Credit
+04-07-2022,292.86,Charitable Donations,Debit Card,None,Bookstore,delhi,1254624.89,Debit
+05-07-2022,776.97,Entertainment and Leisure,Mobile Payments,None,Bookstore,nagpur,1253847.92,Debit
+05-07-2022,924.56,Debt Payments,Checks,None,ATM Withdrawal,satara,1252923.36,Debit
+05-07-2022,639.21,Pension Plans,Checks,Business,Subscription Service,mumbai,1253562.57,Credit
+05-07-2022,355.87,Debt Payments,Online Banking,None,ATM Withdrawal,thane,1253206.7,Debit
+06-07-2022,325.95,Personal Care,Prepaid Debit Cards,None,Rent Payment,mumbai,1252880.75,Debit
+06-07-2022,17.51,Savings and Investments,Prepaid Debit Cards,Business,Utility Company,delhi,1252898.26,Credit
+07-07-2022,247.59,Debt Payments,Mobile Payments,None,Rent Payment,nagpur,1252650.67,Debit
+07-07-2022,851.53,Consulting or Freelancing,Mobile Payments,Salary,Healthcare Provider,solapur,1253502.2,Credit
+07-07-2022,918.13,Part-Time Work,Mobile Payments,Investments,Grocery Store,thane,1254420.33,Credit
+07-07-2022,641.27,Social Security,Mobile Payments,Business,Subscription Service,pune,1255061.6,Credit
+08-07-2022,634.55,Taxes,Online Banking,None,Gym Membership,satara,1254427.05,Debit
+08-07-2022,990.86,Charitable Donations,Debit Card,None,Bookstore,pune,1253436.18,Debit
+09-07-2022,578.36,Pension Plans,Debit Card,Other,Electronics Store,mumbai,1254014.54,Credit
+09-07-2022,461.89,Insurance,Checks,None,Local Farmers' Market,pune,1253552.65,Debit
+09-07-2022,691.21,Miscellaneous Expenses,Mobile Payments,None,ATM Withdrawal,delhi,1252861.44,Debit
+10-07-2022,925.49,Insurance,Debit Card,None,ATM Withdrawal,thane,1251935.95,Debit
+10-07-2022,206.31,Consulting or Freelancing,Debit Card,Other,Grocery Store,nagpur,1252142.26,Credit
+10-07-2022,410.17,Taxes,Checks,None,Car Repair Shop,pune,1251732.08,Debit
+10-07-2022,877.94,Social Security,Checks,Business,Healthcare Provider,mumbai,1252610.03,Credit
+10-07-2022,556.18,Savings and Investments,Checks,Investments,Gas Station,thane,1253166.2,Credit
+10-07-2022,568.91,Charitable Donations,Checks,None,Car Repair Shop,delhi,1252597.29,Debit
+11-07-2022,790.81,Entertainment and Leisure,Prepaid Debit Cards,None,Car Repair Shop,mumbai,1251806.48,Debit
+11-07-2022,486.31,Annuities,Prepaid Debit Cards,Investments,Travel Agency,pune,1252292.79,Credit
+12-07-2022,152.37,Savings and Investments,Prepaid Debit Cards,Other,Gas Station,pune,1252445.15,Credit
+12-07-2022,195.96,Pension Plans,Prepaid Debit Cards,Investments,Restaurant,satara,1252641.12,Credit
+12-07-2022,682.25,Annuities,Prepaid Debit Cards,Salary,Electronics Store,mumbai,1253323.37,Credit
+12-07-2022,780.6,Consulting or Freelancing,Prepaid Debit Cards,Investments,Grocery Store,solapur,1254103.97,Credit
+13-07-2022,102.59,Social Security,Prepaid Debit Cards,Business,Gas Station,thane,1254206.56,Credit
+13-07-2022,603.03,Miscellaneous Expenses,Checks,None,Local Farmers' Market,nagpur,1253603.54,Debit
+13-07-2022,807.68,Personal Care,Mobile Payments,None,Taxi Service,mumbai,1252795.86,Debit
+13-07-2022,490.97,Consulting or Freelancing,Mobile Payments,Salary,Gas Station,satara,1253286.84,Credit
+13-07-2022,518.82,Charitable Donations,Prepaid Debit Cards,None,ATM Withdrawal,pune,1252768.01,Debit
+14-07-2022,937.15,Part-Time Work,Prepaid Debit Cards,Salary,Restaurant,pune,1253705.16,Credit
+14-07-2022,894.16,Savings and Investments,Prepaid Debit Cards,Salary,Electronics Store,satara,1254599.32,Credit
+14-07-2022,481.93,Insurance,Mobile Payments,None,Coffee Shop,satara,1254117.39,Debit
+14-07-2022,799.64,Debt Payments,Online Banking,None,Rent Payment,nagpur,1253317.75,Debit
+15-07-2022,591.6,Debt Payments,Online Banking,None,Local Farmers' Market,satara,1252726.15,Debit
+15-07-2022,336.42,Consulting or Freelancing,Online Banking,Investments,Healthcare Provider,delhi,1253062.57,Credit
+15-07-2022,725.07,Pension Plans,Online Banking,Other,Healthcare Provider,solapur,1253787.64,Credit
+15-07-2022,556.44,Part-Time Work,Online Banking,Business,Restaurant,satara,1254344.07,Credit
+15-07-2022,626.01,Taxes,Prepaid Debit Cards,None,Taxi Service,delhi,1253718.06,Debit
+16-07-2022,491.73,Personal Care,Prepaid Debit Cards,None,Car Repair Shop,delhi,1253226.34,Debit
+16-07-2022,593.08,Part-Time Work,Prepaid Debit Cards,Investments,Restaurant,thane,1253819.41,Credit
+16-07-2022,40.77,Miscellaneous Expenses,Prepaid Debit Cards,None,Car Repair Shop,pune,1253778.65,Debit
+16-07-2022,676.99,Taxes,Prepaid Debit Cards,None,Local Farmers' Market,delhi,1253101.65,Debit
+16-07-2022,868.8,Insurance,Mobile Payments,None,Local Farmers' Market,nagpur,1252232.85,Debit
+17-07-2022,101.26,Part-Time Work,Mobile Payments,Other,Utility Company,mumbai,1252334.11,Credit
+17-07-2022,567.07,Consulting or Freelancing,Mobile Payments,Business,Clothing Boutique,solapur,1252901.18,Credit
+17-07-2022,95.83,Savings and Investments,Mobile Payments,Other,Gas Station,delhi,1252997.01,Credit
+17-07-2022,429.4,Charitable Donations,Mobile Payments,None,Rent Payment,thane,1252567.61,Debit
+18-07-2022,405.92,Charitable Donations,Mobile Payments,None,Rent Payment,satara,1252161.68,Debit
+18-07-2022,93.07,Charitable Donations,Mobile Payments,None,Bookstore,nagpur,1252068.61,Debit
+18-07-2022,927.77,Personal Care,Debit Card,None,Car Repair Shop,mumbai,1251140.84,Debit
+18-07-2022,248.75,Pension Plans,Debit Card,Business,Healthcare Provider,delhi,1251389.59,Credit
+18-07-2022,332.14,Part-Time Work,Debit Card,Business,Subscription Service,nagpur,1251721.72,Credit
+19-07-2022,683.52,Taxes,Online Banking,None,Rent Payment,delhi,1251038.2,Debit
+19-07-2022,156.86,Savings and Investments,Online Banking,Salary,Electronics Store,mumbai,1251195.06,Credit
+20-07-2022,725.71,Entertainment and Leisure,Mobile Payments,None,Gym Membership,mumbai,1250469.36,Debit
+20-07-2022,469.28,Pension Plans,Mobile Payments,Salary,Gas Station,mumbai,1250938.64,Credit
+20-07-2022,933.71,Savings and Investments,Mobile Payments,Investments,Travel Agency,mumbai,1251872.35,Credit
+21-07-2022,411.22,Part-Time Work,Mobile Payments,Investments,Clothing Boutique,solapur,1252283.57,Credit
+21-07-2022,912.35,Debt Payments,Checks,None,Rent Payment,satara,1251371.22,Debit
+22-07-2022,375.28,Consulting or Freelancing,Checks,Investments,Electronics Store,mumbai,1251746.5,Credit
+22-07-2022,730.21,Personal Care,Online Banking,None,Taxi Service,mumbai,1251016.29,Debit
+22-07-2022,328.68,Part-Time Work,Online Banking,Investments,Grocery Store,nagpur,1251344.97,Credit
+23-07-2022,545.13,Consulting or Freelancing,Online Banking,Business,Grocery Store,satara,1251890.09,Credit
+23-07-2022,716.43,Social Security,Online Banking,Investments,Travel Agency,delhi,1252606.53,Credit
+24-07-2022,702.14,Personal Care,Prepaid Debit Cards,None,Local Farmers' Market,solapur,1251904.39,Debit
+24-07-2022,752.21,Annuities,Prepaid Debit Cards,Business,Electronics Store,thane,1252656.59,Credit
+24-07-2022,525.79,Insurance,Online Banking,None,Gym Membership,pune,1252130.81,Debit
+24-07-2022,878.73,Savings and Investments,Online Banking,Salary,Electronics Store,solapur,1253009.53,Credit
+24-07-2022,884.49,Social Security,Online Banking,Business,Subscription Service,thane,1253894.03,Credit
+25-07-2022,795.25,Taxes,Prepaid Debit Cards,None,Gym Membership,thane,1253098.78,Debit
+25-07-2022,979,Consulting or Freelancing,Prepaid Debit Cards,Investments,Clothing Boutique,thane,1254077.77,Credit
+25-07-2022,892.15,Social Security,Prepaid Debit Cards,Other,Electronics Store,delhi,1254969.92,Credit
+25-07-2022,574.24,Miscellaneous Expenses,Checks,None,Rent Payment,nagpur,1254395.69,Debit
+25-07-2022,631.46,Personal Care,Online Banking,None,Bookstore,thane,1253764.23,Debit
+25-07-2022,24.22,Entertainment and Leisure,Checks,None,Bookstore,satara,1253740.01,Debit
+26-07-2022,934.08,Savings and Investments,Checks,Business,Subscription Service,nagpur,1254674.09,Credit
+26-07-2022,412.26,Charitable Donations,Checks,None,Coffee Shop,delhi,1254261.83,Debit
+27-07-2022,999.98,Charitable Donations,Prepaid Debit Cards,None,Car Repair Shop,delhi,1253261.84,Debit
+27-07-2022,624.4,Part-Time Work,Prepaid Debit Cards,Business,Gas Station,mumbai,1253886.24,Credit
+28-07-2022,70.95,Savings and Investments,Prepaid Debit Cards,Salary,Utility Company,mumbai,1253957.2,Credit
+28-07-2022,526.79,Pension Plans,Prepaid Debit Cards,Business,Gas Station,solapur,1254483.99,Credit
+28-07-2022,416.75,Charitable Donations,Online Banking,None,ATM Withdrawal,thane,1254067.24,Debit
+28-07-2022,364.79,Miscellaneous Expenses,Checks,None,Gym Membership,satara,1253702.45,Debit
+28-07-2022,920.88,Consulting or Freelancing,Checks,Salary,Clothing Boutique,mumbai,1254623.33,Credit
+01-08-2022,772.55,Savings and Investments,Checks,Investments,Clothing Boutique,mumbai,1255395.88,Credit
+01-08-2022,743.62,Savings and Investments,Checks,Business,Grocery Store,thane,1256139.5,Credit
+01-08-2022,381.72,Savings and Investments,Checks,Salary,Restaurant,pune,1256521.22,Credit
+01-08-2022,812.09,Social Security,Checks,Investments,Subscription Service,nagpur,1257333.3,Credit
+02-08-2022,811.63,Consulting or Freelancing,Checks,Salary,Clothing Boutique,pune,1258144.93,Credit
+02-08-2022,65.17,Debt Payments,Mobile Payments,None,Taxi Service,delhi,1258079.76,Debit
+02-08-2022,510.78,Consulting or Freelancing,Mobile Payments,Salary,Travel Agency,solapur,1258590.54,Credit
+02-08-2022,836.12,Annuities,Mobile Payments,Business,Clothing Boutique,nagpur,1259426.66,Credit
+03-08-2022,902.69,Entertainment and Leisure,Online Banking,None,Taxi Service,solapur,1258523.98,Debit
+03-08-2022,540.03,Charitable Donations,Checks,None,ATM Withdrawal,nagpur,1257983.94,Debit
+03-08-2022,244.5,Annuities,Checks,Other,Clothing Boutique,mumbai,1258228.44,Credit
+03-08-2022,392.3,Entertainment and Leisure,Online Banking,None,Local Farmers' Market,nagpur,1257836.14,Debit
+04-08-2022,205.76,Miscellaneous Expenses,Online Banking,None,Local Farmers' Market,satara,1257630.38,Debit
+04-08-2022,89.1,Charitable Donations,Debit Card,None,Taxi Service,satara,1257541.28,Debit
+05-08-2022,464.23,Pension Plans,Debit Card,Investments,Grocery Store,pune,1258005.51,Credit
+05-08-2022,840.41,Taxes,Checks,None,Bookstore,pune,1257165.1,Debit
+05-08-2022,432.91,Insurance,Prepaid Debit Cards,None,Coffee Shop,satara,1256732.18,Debit
+05-08-2022,97.54,Personal Care,Prepaid Debit Cards,None,Rent Payment,thane,1256634.64,Debit
+05-08-2022,483.88,Personal Care,Prepaid Debit Cards,None,Local Farmers' Market,nagpur,1256150.76,Debit
+05-08-2022,882.99,Consulting or Freelancing,Prepaid Debit Cards,Investments,Utility Company,delhi,1257033.75,Credit
+06-08-2022,896.06,Miscellaneous Expenses,Debit Card,None,Local Farmers' Market,solapur,1256137.69,Debit
+06-08-2022,170.61,Pension Plans,Debit Card,Investments,Electronics Store,delhi,1256308.3,Credit
+06-08-2022,158.81,Personal Care,Online Banking,None,Local Farmers' Market,thane,1256149.49,Debit
+07-08-2022,427.47,Charitable Donations,Online Banking,None,Local Farmers' Market,thane,1255722.02,Debit
+07-08-2022,839.39,Pension Plans,Online Banking,Salary,Utility Company,satara,1256561.41,Credit
+07-08-2022,377.69,Pension Plans,Online Banking,Salary,Healthcare Provider,pune,1256939.1,Credit
+07-08-2022,688.2,Part-Time Work,Online Banking,Salary,Restaurant,satara,1257627.3,Credit
+08-08-2022,467.13,Debt Payments,Online Banking,None,Car Repair Shop,thane,1257160.17,Debit
+08-08-2022,495.63,Savings and Investments,Online Banking,Business,Restaurant,solapur,1257655.79,Credit
+08-08-2022,544.52,Pension Plans,Online Banking,Salary,Grocery Store,nagpur,1258200.32,Credit
+08-08-2022,210.22,Consulting or Freelancing,Online Banking,Business,Clothing Boutique,nagpur,1258410.54,Credit
+08-08-2022,619.68,Miscellaneous Expenses,Debit Card,None,ATM Withdrawal,thane,1257790.86,Debit
+09-08-2022,960.7,Annuities,Debit Card,Other,Grocery Store,thane,1258751.56,Credit
+09-08-2022,878.56,Insurance,Checks,None,Car Repair Shop,thane,1257873,Debit
+09-08-2022,793.44,Debt Payments,Debit Card,None,Local Farmers' Market,satara,1257079.56,Debit
+09-08-2022,987.15,Part-Time Work,Debit Card,Other,Clothing Boutique,pune,1258066.71,Credit
+09-08-2022,276.71,Savings and Investments,Debit Card,Business,Utility Company,mumbai,1258343.42,Credit
+10-08-2022,122.27,Annuities,Debit Card,Other,Clothing Boutique,delhi,1258465.7,Credit
+10-08-2022,875.36,Taxes,Prepaid Debit Cards,None,Gym Membership,pune,1257590.33,Debit
+10-08-2022,692.03,Personal Care,Mobile Payments,None,Taxi Service,nagpur,1256898.31,Debit
+10-08-2022,644.59,Debt Payments,Checks,None,Local Farmers' Market,delhi,1256253.71,Debit
+11-08-2022,271.12,Annuities,Checks,Salary,Subscription Service,solapur,1256524.84,Credit
+11-08-2022,573.38,Part-Time Work,Checks,Salary,Travel Agency,pune,1257098.22,Credit
+11-08-2022,234.25,Pension Plans,Checks,Business,Clothing Boutique,solapur,1257332.47,Credit
+11-08-2022,547.79,Annuities,Checks,Investments,Restaurant,pune,1257880.26,Credit
+11-08-2022,502.83,Debt Payments,Mobile Payments,None,Local Farmers' Market,satara,1257377.43,Debit
+12-08-2022,633.11,Social Security,Mobile Payments,Salary,Gas Station,pune,1258010.53,Credit
+12-08-2022,215.24,Taxes,Checks,None,Local Farmers' Market,solapur,1257795.29,Debit
+12-08-2022,562.4,Taxes,Mobile Payments,None,Car Repair Shop,satara,1257232.9,Debit
+12-08-2022,204.64,Social Security,Mobile Payments,Business,Restaurant,solapur,1257437.54,Credit
+13-08-2022,687.48,Social Security,Mobile Payments,Other,Travel Agency,nagpur,1258125.02,Credit
+13-08-2022,879.05,Debt Payments,Checks,None,ATM Withdrawal,nagpur,1257245.98,Debit
+13-08-2022,798.77,Social Security,Checks,Investments,Grocery Store,pune,1258044.74,Credit
+14-08-2022,55.12,Pension Plans,Checks,Salary,Electronics Store,mumbai,1258099.87,Credit
+14-08-2022,184.42,Taxes,Mobile Payments,None,Gym Membership,solapur,1257915.45,Debit
+14-08-2022,204.37,Pension Plans,Mobile Payments,Salary,Healthcare Provider,solapur,1258119.82,Credit
+15-08-2022,29.29,Charitable Donations,Online Banking,None,ATM Withdrawal,pune,1258090.53,Debit
+15-08-2022,623.11,Social Security,Online Banking,Business,Gas Station,pune,1258713.65,Credit
+15-08-2022,922.64,Insurance,Online Banking,None,ATM Withdrawal,satara,1257791.01,Debit
+15-08-2022,11.42,Entertainment and Leisure,Mobile Payments,None,Local Farmers' Market,pune,1257779.59,Debit
+16-08-2022,618.63,Pension Plans,Mobile Payments,Other,Gas Station,delhi,1258398.22,Credit
+16-08-2022,578.99,Charitable Donations,Prepaid Debit Cards,None,Coffee Shop,satara,1257819.23,Debit
+16-08-2022,859.58,Part-Time Work,Prepaid Debit Cards,Investments,Electronics Store,thane,1258678.81,Credit
+17-08-2022,408.74,Pension Plans,Prepaid Debit Cards,Business,Gas Station,satara,1259087.55,Credit
+17-08-2022,127.84,Charitable Donations,Mobile Payments,None,ATM Withdrawal,mumbai,1258959.7,Debit
+17-08-2022,382.06,Annuities,Mobile Payments,Investments,Utility Company,satara,1259341.76,Credit
+17-08-2022,225.42,Debt Payments,Debit Card,None,ATM Withdrawal,delhi,1259116.34,Debit
+17-08-2022,542.1,Pension Plans,Debit Card,Investments,Utility Company,nagpur,1259658.44,Credit
+17-08-2022,306.04,Pension Plans,Debit Card,Business,Subscription Service,pune,1259964.48,Credit
+18-08-2022,407.17,Pension Plans,Debit Card,Business,Gas Station,delhi,1260371.65,Credit
+18-08-2022,431.1,Taxes,Debit Card,None,Gym Membership,mumbai,1259940.55,Debit
+18-08-2022,226.87,Insurance,Online Banking,None,Local Farmers' Market,delhi,1259713.68,Debit
+18-08-2022,53.08,Pension Plans,Online Banking,Investments,Healthcare Provider,thane,1259766.76,Credit
+19-08-2022,896.91,Savings and Investments,Online Banking,Business,Utility Company,nagpur,1260663.67,Credit
+19-08-2022,73.83,Annuities,Online Banking,Investments,Clothing Boutique,satara,1260737.5,Credit
+19-08-2022,717.22,Miscellaneous Expenses,Mobile Payments,None,Local Farmers' Market,thane,1260020.28,Debit
+19-08-2022,369.43,Social Security,Mobile Payments,Other,Grocery Store,satara,1260389.71,Credit
+19-08-2022,709.99,Taxes,Mobile Payments,None,Coffee Shop,mumbai,1259679.72,Debit
+20-08-2022,471.82,Pension Plans,Mobile Payments,Business,Healthcare Provider,nagpur,1260151.55,Credit
+20-08-2022,109.29,Pension Plans,Mobile Payments,Salary,Electronics Store,mumbai,1260260.84,Credit
+20-08-2022,125.64,Miscellaneous Expenses,Checks,None,ATM Withdrawal,solapur,1260135.2,Debit
+20-08-2022,908.6,Insurance,Online Banking,None,Local Farmers' Market,delhi,1259226.6,Debit
+20-08-2022,260.39,Savings and Investments,Online Banking,Salary,Electronics Store,pune,1259486.99,Credit
+21-08-2022,217.82,Annuities,Online Banking,Investments,Grocery Store,nagpur,1259704.81,Credit
+21-08-2022,644.73,Insurance,Prepaid Debit Cards,None,Local Farmers' Market,mumbai,1259060.07,Debit
+21-08-2022,92.53,Miscellaneous Expenses,Online Banking,None,ATM Withdrawal,satara,1258967.55,Debit
+21-08-2022,438.55,Annuities,Online Banking,Other,Clothing Boutique,mumbai,1259406.09,Credit
+21-08-2022,592.85,Insurance,Checks,None,Gym Membership,solapur,1258813.24,Debit
+21-08-2022,724.78,Insurance,Prepaid Debit Cards,None,Gym Membership,delhi,1258088.46,Debit
+22-08-2022,1.18,Consulting or Freelancing,Prepaid Debit Cards,Business,Restaurant,nagpur,1258089.64,Credit
+22-08-2022,518.21,Taxes,Online Banking,None,Rent Payment,mumbai,1257571.43,Debit
+22-08-2022,359.58,Consulting or Freelancing,Online Banking,Business,Utility Company,mumbai,1257931.01,Credit
+22-08-2022,541.87,Annuities,Online Banking,Other,Utility Company,thane,1258472.88,Credit
+23-08-2022,256.94,Personal Care,Checks,None,Car Repair Shop,pune,1258215.94,Debit
+23-08-2022,627.77,Insurance,Mobile Payments,None,Taxi Service,mumbai,1257588.16,Debit
+23-08-2022,482.84,Debt Payments,Online Banking,None,ATM Withdrawal,thane,1257105.32,Debit
+23-08-2022,571.11,Taxes,Prepaid Debit Cards,None,ATM Withdrawal,pune,1256534.21,Debit
+24-08-2022,662.75,Entertainment and Leisure,Online Banking,None,Gym Membership,delhi,1255871.46,Debit
+24-08-2022,466.38,Debt Payments,Prepaid Debit Cards,None,Gym Membership,solapur,1255405.08,Debit
+25-08-2022,943.76,Pension Plans,Prepaid Debit Cards,Other,Grocery Store,delhi,1256348.84,Credit
+25-08-2022,420.47,Pension Plans,Prepaid Debit Cards,Business,Restaurant,thane,1256769.31,Credit
+25-08-2022,531.51,Insurance,Online Banking,None,Local Farmers' Market,solapur,1256237.81,Debit
+25-08-2022,308.66,Personal Care,Prepaid Debit Cards,None,Taxi Service,pune,1255929.14,Debit
+25-08-2022,862.74,Entertainment and Leisure,Prepaid Debit Cards,None,Car Repair Shop,delhi,1255066.4,Debit
+25-08-2022,733.18,Miscellaneous Expenses,Mobile Payments,None,Taxi Service,thane,1254333.23,Debit
+26-08-2022,159.98,Charitable Donations,Debit Card,None,Taxi Service,satara,1254173.24,Debit
+26-08-2022,345.23,Insurance,Prepaid Debit Cards,None,Local Farmers' Market,mumbai,1253828.01,Debit
+27-08-2022,577.41,Savings and Investments,Prepaid Debit Cards,Investments,Travel Agency,delhi,1254405.42,Credit
+27-08-2022,375.65,Taxes,Online Banking,None,Coffee Shop,mumbai,1254029.77,Debit
+27-08-2022,904.71,Charitable Donations,Debit Card,None,Coffee Shop,solapur,1253125.06,Debit
+27-08-2022,650.13,Savings and Investments,Debit Card,Other,Grocery Store,delhi,1253775.18,Credit
+28-08-2022,224.73,Entertainment and Leisure,Debit Card,None,Car Repair Shop,delhi,1253550.45,Debit
+28-08-2022,434.49,Part-Time Work,Debit Card,Investments,Healthcare Provider,satara,1253984.94,Credit
+28-08-2022,134.68,Debt Payments,Debit Card,None,Rent Payment,thane,1253850.25,Debit
+28-08-2022,717.27,Part-Time Work,Debit Card,Investments,Restaurant,satara,1254567.52,Credit
+01-09-2022,462.59,Savings and Investments,Debit Card,Investments,Healthcare Provider,solapur,1255030.11,Credit
+01-09-2022,28.53,Miscellaneous Expenses,Prepaid Debit Cards,None,Gym Membership,delhi,1255001.58,Debit
+01-09-2022,100.36,Pension Plans,Prepaid Debit Cards,Other,Gas Station,thane,1255101.94,Credit
+01-09-2022,162.4,Miscellaneous Expenses,Online Banking,None,Gym Membership,satara,1254939.54,Debit
+01-09-2022,111.98,Pension Plans,Online Banking,Investments,Utility Company,satara,1255051.52,Credit
+02-09-2022,763.34,Annuities,Online Banking,Business,Electronics Store,delhi,1255814.86,Credit
+02-09-2022,304.14,Personal Care,Prepaid Debit Cards,None,Bookstore,satara,1255510.72,Debit
+03-09-2022,265.02,Savings and Investments,Prepaid Debit Cards,Other,Subscription Service,thane,1255775.74,Credit
+03-09-2022,92.04,Charitable Donations,Checks,None,Bookstore,pune,1255683.7,Debit
+04-09-2022,501.02,Personal Care,Prepaid Debit Cards,None,Coffee Shop,mumbai,1255182.68,Debit
+04-09-2022,699.64,Social Security,Prepaid Debit Cards,Salary,Gas Station,nagpur,1255882.32,Credit
+04-09-2022,204.38,Annuities,Prepaid Debit Cards,Other,Subscription Service,satara,1256086.69,Credit
+05-09-2022,736.06,Miscellaneous Expenses,Checks,None,Car Repair Shop,mumbai,1255350.63,Debit
+05-09-2022,932.06,Social Security,Checks,Investments,Travel Agency,nagpur,1256282.69,Credit
+05-09-2022,59.42,Part-Time Work,Checks,Business,Utility Company,thane,1256342.11,Credit
+05-09-2022,898.23,Miscellaneous Expenses,Online Banking,None,Taxi Service,nagpur,1255443.89,Debit
+05-09-2022,988.02,Miscellaneous Expenses,Prepaid Debit Cards,None,Bookstore,pune,1254455.87,Debit
+05-09-2022,580.03,Consulting or Freelancing,Prepaid Debit Cards,Salary,Clothing Boutique,solapur,1255035.9,Credit
+06-09-2022,156.12,Charitable Donations,Prepaid Debit Cards,None,Rent Payment,solapur,1254879.78,Debit
+06-09-2022,292.46,Pension Plans,Prepaid Debit Cards,Investments,Subscription Service,delhi,1255172.24,Credit
+06-09-2022,358.46,Entertainment and Leisure,Mobile Payments,None,Bookstore,satara,1254813.77,Debit
+06-09-2022,244.1,Savings and Investments,Mobile Payments,Investments,Clothing Boutique,pune,1255057.87,Credit
+06-09-2022,753.37,Taxes,Mobile Payments,None,ATM Withdrawal,pune,1254304.51,Debit
+06-09-2022,715.36,Debt Payments,Mobile Payments,None,Car Repair Shop,pune,1253589.14,Debit
+07-09-2022,823.2,Annuities,Mobile Payments,Business,Clothing Boutique,satara,1254412.35,Credit
+07-09-2022,770.93,Consulting or Freelancing,Mobile Payments,Salary,Subscription Service,solapur,1255183.27,Credit
+07-09-2022,473.5,Annuities,Mobile Payments,Other,Clothing Boutique,satara,1255656.77,Credit
+07-09-2022,941.25,Charitable Donations,Checks,None,Car Repair Shop,solapur,1254715.52,Debit
+08-09-2022,156.92,Miscellaneous Expenses,Checks,None,ATM Withdrawal,mumbai,1254558.6,Debit
+08-09-2022,33.67,Consulting or Freelancing,Checks,Investments,Travel Agency,pune,1254592.27,Credit
+08-09-2022,503.7,Insurance,Checks,None,Local Farmers' Market,mumbai,1254088.57,Debit
+08-09-2022,637.38,Social Security,Checks,Salary,Clothing Boutique,delhi,1254725.95,Credit
+08-09-2022,883.1,Entertainment and Leisure,Mobile Payments,None,Bookstore,satara,1253842.86,Debit
+09-09-2022,284.58,Pension Plans,Mobile Payments,Investments,Subscription Service,delhi,1254127.44,Credit
+09-09-2022,267.6,Pension Plans,Mobile Payments,Other,Travel Agency,mumbai,1254395.04,Credit
+09-09-2022,44,Entertainment and Leisure,Online Banking,None,ATM Withdrawal,pune,1254351.04,Debit
+09-09-2022,593.9,Miscellaneous Expenses,Checks,None,Taxi Service,solapur,1253757.15,Debit
+10-09-2022,576.43,Savings and Investments,Checks,Salary,Healthcare Provider,nagpur,1254333.58,Credit
+10-09-2022,361.66,Insurance,Mobile Payments,None,Bookstore,delhi,1253971.92,Debit
+10-09-2022,368.22,Savings and Investments,Mobile Payments,Salary,Utility Company,mumbai,1254340.14,Credit
+11-09-2022,351.41,Taxes,Checks,None,ATM Withdrawal,satara,1253988.73,Debit
+11-09-2022,883.44,Miscellaneous Expenses,Checks,None,Local Farmers' Market,pune,1253105.29,Debit
+12-09-2022,36.74,Insurance,Mobile Payments,None,Rent Payment,delhi,1253068.54,Debit
+12-09-2022,169.83,Part-Time Work,Mobile Payments,Investments,Travel Agency,mumbai,1253238.37,Credit
+12-09-2022,269.12,Annuities,Mobile Payments,Business,Electronics Store,mumbai,1253507.49,Credit
+12-09-2022,566.91,Consulting or Freelancing,Mobile Payments,Investments,Electronics Store,thane,1254074.4,Credit
+12-09-2022,341.24,Personal Care,Prepaid Debit Cards,None,Car Repair Shop,delhi,1253733.16,Debit
+12-09-2022,295.03,Part-Time Work,Prepaid Debit Cards,Investments,Clothing Boutique,pune,1254028.2,Credit
+13-09-2022,961.79,Personal Care,Checks,None,ATM Withdrawal,nagpur,1253066.41,Debit
+13-09-2022,944.62,Pension Plans,Checks,Investments,Subscription Service,satara,1254011.03,Credit
+13-09-2022,91.76,Annuities,Checks,Business,Healthcare Provider,satara,1254102.79,Credit
+13-09-2022,108.43,Entertainment and Leisure,Online Banking,None,Coffee Shop,thane,1253994.36,Debit
+13-09-2022,446.59,Charitable Donations,Debit Card,None,Car Repair Shop,delhi,1253547.78,Debit
+14-09-2022,164.6,Charitable Donations,Checks,None,Gym Membership,delhi,1253383.18,Debit
+14-09-2022,553.85,Pension Plans,Checks,Salary,Travel Agency,solapur,1253937.04,Credit
+14-09-2022,387.63,Charitable Donations,Mobile Payments,None,Gym Membership,nagpur,1253549.41,Debit
+14-09-2022,212.15,Debt Payments,Debit Card,None,Taxi Service,thane,1253337.25,Debit
+14-09-2022,343.85,Pension Plans,Debit Card,Investments,Clothing Boutique,mumbai,1253681.1,Credit
+15-09-2022,339.02,Entertainment and Leisure,Mobile Payments,None,Coffee Shop,nagpur,1253342.08,Debit
+15-09-2022,942.97,Annuities,Mobile Payments,Salary,Restaurant,delhi,1254285.06,Credit
+15-09-2022,43.99,Taxes,Online Banking,None,Gym Membership,satara,1254241.07,Debit
+16-09-2022,527.88,Social Security,Online Banking,Other,Restaurant,nagpur,1254768.95,Credit
+16-09-2022,729.92,Savings and Investments,Online Banking,Other,Utility Company,thane,1255498.87,Credit
+16-09-2022,277.07,Debt Payments,Debit Card,None,Coffee Shop,mumbai,1255221.8,Debit
+16-09-2022,273.57,Insurance,Debit Card,None,Rent Payment,solapur,1254948.24,Debit
+16-09-2022,868.44,Consulting or Freelancing,Debit Card,Business,Subscription Service,mumbai,1255816.68,Credit
+17-09-2022,50.08,Savings and Investments,Debit Card,Investments,Gas Station,satara,1255866.75,Credit
+17-09-2022,403.42,Entertainment and Leisure,Online Banking,None,Rent Payment,satara,1255463.34,Debit
+17-09-2022,791.53,Taxes,Online Banking,None,Coffee Shop,pune,1254671.81,Debit
+17-09-2022,637.28,Miscellaneous Expenses,Mobile Payments,None,Rent Payment,delhi,1254034.53,Debit
+18-09-2022,206.09,Insurance,Online Banking,None,Car Repair Shop,thane,1253828.44,Debit
+18-09-2022,19.93,Personal Care,Debit Card,None,ATM Withdrawal,pune,1253808.51,Debit
+18-09-2022,116.93,Debt Payments,Checks,None,Local Farmers' Market,nagpur,1253691.58,Debit
+18-09-2022,337.5,Pension Plans,Checks,Investments,Utility Company,satara,1254029.08,Credit
+18-09-2022,101.6,Taxes,Checks,None,Local Farmers' Market,solapur,1253927.48,Debit
+18-09-2022,524.75,Charitable Donations,Online Banking,None,Taxi Service,thane,1253402.72,Debit
+19-09-2022,564.61,Entertainment and Leisure,Prepaid Debit Cards,None,Taxi Service,pune,1252838.11,Debit
+19-09-2022,521.52,Part-Time Work,Prepaid Debit Cards,Salary,Utility Company,satara,1253359.63,Credit
+20-09-2022,199.2,Pension Plans,Prepaid Debit Cards,Investments,Grocery Store,pune,1253558.83,Credit
+20-09-2022,308.18,Pension Plans,Prepaid Debit Cards,Business,Subscription Service,pune,1253867.01,Credit
+20-09-2022,260.1,Annuities,Prepaid Debit Cards,Investments,Grocery Store,nagpur,1254127.12,Credit
+21-09-2022,372.38,Entertainment and Leisure,Prepaid Debit Cards,None,Local Farmers' Market,delhi,1253754.74,Debit
+21-09-2022,967.28,Part-Time Work,Prepaid Debit Cards,Investments,Clothing Boutique,solapur,1254722.02,Credit
+21-09-2022,604.43,Consulting or Freelancing,Prepaid Debit Cards,Salary,Grocery Store,solapur,1255326.45,Credit
+22-09-2022,735.48,Taxes,Checks,None,Rent Payment,satara,1254590.97,Debit
+22-09-2022,679.49,Social Security,Checks,Investments,Subscription Service,thane,1255270.46,Credit
+22-09-2022,441.12,Part-Time Work,Checks,Investments,Clothing Boutique,thane,1255711.58,Credit
+22-09-2022,957.34,Pension Plans,Checks,Salary,Clothing Boutique,nagpur,1256668.92,Credit
+23-09-2022,820.57,Social Security,Checks,Business,Clothing Boutique,nagpur,1257489.5,Credit
+23-09-2022,778.16,Part-Time Work,Checks,Business,Electronics Store,satara,1258267.65,Credit
+23-09-2022,298.76,Insurance,Online Banking,None,Local Farmers' Market,pune,1257968.9,Debit
+24-09-2022,440.81,Pension Plans,Online Banking,Salary,Clothing Boutique,mumbai,1258409.71,Credit
+24-09-2022,448.74,Part-Time Work,Online Banking,Salary,Clothing Boutique,thane,1258858.45,Credit
+24-09-2022,655.45,Insurance,Checks,None,Rent Payment,thane,1258203,Debit
+24-09-2022,388.13,Debt Payments,Online Banking,None,ATM Withdrawal,nagpur,1257814.87,Debit
+24-09-2022,414.97,Miscellaneous Expenses,Debit Card,None,Car Repair Shop,mumbai,1257399.91,Debit
+24-09-2022,993.56,Miscellaneous Expenses,Checks,None,Bookstore,nagpur,1256406.35,Debit
+25-09-2022,498.22,Social Security,Checks,Salary,Restaurant,satara,1256904.57,Credit
+25-09-2022,168.46,Personal Care,Checks,None,Gym Membership,satara,1256736.11,Debit
+25-09-2022,117.31,Part-Time Work,Checks,Investments,Electronics Store,delhi,1256853.42,Credit
+25-09-2022,376.32,Entertainment and Leisure,Prepaid Debit Cards,None,Gym Membership,delhi,1256477.1,Debit
+25-09-2022,995.17,Debt Payments,Checks,None,Local Farmers' Market,pune,1255481.93,Debit
+26-09-2022,953.31,Miscellaneous Expenses,Online Banking,None,Bookstore,delhi,1254528.62,Debit
+26-09-2022,90.85,Miscellaneous Expenses,Prepaid Debit Cards,None,Car Repair Shop,solapur,1254437.77,Debit
+26-09-2022,729.5,Pension Plans,Prepaid Debit Cards,Other,Healthcare Provider,pune,1255167.28,Credit
+26-09-2022,300.69,Debt Payments,Checks,None,Local Farmers' Market,nagpur,1254866.59,Debit
+26-09-2022,597.76,Consulting or Freelancing,Checks,Salary,Electronics Store,nagpur,1255464.35,Credit
+27-09-2022,667.42,Part-Time Work,Checks,Salary,Healthcare Provider,solapur,1256131.76,Credit
+27-09-2022,973.68,Part-Time Work,Checks,Other,Restaurant,nagpur,1257105.45,Credit
+27-09-2022,227.7,Savings and Investments,Checks,Other,Electronics Store,nagpur,1257333.14,Credit
+27-09-2022,620.49,Charitable Donations,Mobile Payments,None,Coffee Shop,thane,1256712.65,Debit
+27-09-2022,303.27,Debt Payments,Checks,None,Gym Membership,solapur,1256409.38,Debit
+27-09-2022,644.93,Pension Plans,Checks,Other,Utility Company,solapur,1257054.31,Credit
+28-09-2022,567.53,Miscellaneous Expenses,Online Banking,None,ATM Withdrawal,thane,1256486.78,Debit
+28-09-2022,456.63,Part-Time Work,Online Banking,Business,Healthcare Provider,satara,1256943.41,Credit
+28-09-2022,694.87,Social Security,Online Banking,Business,Grocery Store,pune,1257638.27,Credit
+28-09-2022,783.8,Entertainment and Leisure,Mobile Payments,None,Gym Membership,thane,1256854.47,Debit
+28-09-2022,200.97,Savings and Investments,Mobile Payments,Salary,Utility Company,satara,1257055.44,Credit
+01-10-2022,311.27,Savings and Investments,Mobile Payments,Business,Electronics Store,pune,1257366.71,Credit
+01-10-2022,343.76,Consulting or Freelancing,Mobile Payments,Salary,Travel Agency,mumbai,1257710.47,Credit
+01-10-2022,27.87,Miscellaneous Expenses,Mobile Payments,None,Local Farmers' Market,delhi,1257682.6,Debit
+02-10-2022,887.5,Debt Payments,Checks,None,Bookstore,solapur,1256795.1,Debit
+02-10-2022,336.35,Entertainment and Leisure,Checks,None,Coffee Shop,thane,1256458.75,Debit
+02-10-2022,788.1,Insurance,Mobile Payments,None,Taxi Service,satara,1255670.65,Debit
+02-10-2022,106.46,Part-Time Work,Mobile Payments,Salary,Gas Station,pune,1255777.12,Credit
+02-10-2022,270.68,Annuities,Mobile Payments,Business,Gas Station,nagpur,1256047.79,Credit
+03-10-2022,498.29,Part-Time Work,Mobile Payments,Investments,Clothing Boutique,delhi,1256546.08,Credit
+03-10-2022,339.48,Savings and Investments,Mobile Payments,Salary,Electronics Store,solapur,1256885.57,Credit
+03-10-2022,142.46,Insurance,Checks,None,Coffee Shop,solapur,1256743.11,Debit
+04-10-2022,570.2,Savings and Investments,Checks,Investments,Travel Agency,thane,1257313.32,Credit
+04-10-2022,209.95,Savings and Investments,Checks,Salary,Clothing Boutique,thane,1257523.26,Credit
+04-10-2022,695.36,Debt Payments,Checks,None,Local Farmers' Market,delhi,1256827.9,Debit
+04-10-2022,126.65,Savings and Investments,Checks,Other,Subscription Service,satara,1256954.55,Credit
+04-10-2022,707.93,Debt Payments,Mobile Payments,None,Gym Membership,solapur,1256246.62,Debit
+04-10-2022,567.26,Consulting or Freelancing,Mobile Payments,Salary,Electronics Store,mumbai,1256813.88,Credit
+05-10-2022,888.92,Charitable Donations,Debit Card,None,Rent Payment,thane,1255924.96,Debit
+05-10-2022,403.53,Entertainment and Leisure,Checks,None,ATM Withdrawal,thane,1255521.43,Debit
+05-10-2022,163.94,Entertainment and Leisure,Mobile Payments,None,Rent Payment,delhi,1255357.49,Debit
+06-10-2022,826.75,Savings and Investments,Mobile Payments,Other,Travel Agency,mumbai,1256184.24,Credit
+06-10-2022,93.42,Entertainment and Leisure,Online Banking,None,Local Farmers' Market,mumbai,1256090.82,Debit
+06-10-2022,449.22,Part-Time Work,Online Banking,Salary,Clothing Boutique,pune,1256540.04,Credit
+07-10-2022,369.17,Part-Time Work,Online Banking,Other,Healthcare Provider,solapur,1256909.22,Credit
+07-10-2022,866.36,Debt Payments,Checks,None,Taxi Service,satara,1256042.86,Debit
+07-10-2022,230.6,Entertainment and Leisure,Mobile Payments,None,Local Farmers' Market,delhi,1255812.25,Debit
+08-10-2022,255.98,Consulting or Freelancing,Mobile Payments,Salary,Electronics Store,nagpur,1256068.24,Credit
+08-10-2022,533.25,Debt Payments,Online Banking,None,Coffee Shop,nagpur,1255534.99,Debit
+08-10-2022,834.47,Miscellaneous Expenses,Debit Card,None,Bookstore,thane,1254700.52,Debit
+08-10-2022,793.42,Taxes,Online Banking,None,Car Repair Shop,nagpur,1253907.1,Debit
+08-10-2022,587.71,Savings and Investments,Online Banking,Business,Gas Station,mumbai,1254494.81,Credit
+08-10-2022,184.85,Charitable Donations,Online Banking,None,Local Farmers' Market,solapur,1254309.96,Debit
+09-10-2022,139.92,Savings and Investments,Online Banking,Business,Subscription Service,pune,1254449.88,Credit
+09-10-2022,962.8,Consulting or Freelancing,Online Banking,Business,Electronics Store,satara,1255412.68,Credit
+09-10-2022,579.4,Social Security,Online Banking,Other,Travel Agency,mumbai,1255992.08,Credit
+09-10-2022,615.48,Miscellaneous Expenses,Debit Card,None,Car Repair Shop,thane,1255376.59,Debit
+09-10-2022,8.58,Entertainment and Leisure,Debit Card,None,Gym Membership,delhi,1255368.01,Debit
+10-10-2022,245.96,Part-Time Work,Debit Card,Salary,Grocery Store,pune,1255613.97,Credit
+10-10-2022,274.66,Savings and Investments,Debit Card,Business,Grocery Store,mumbai,1255888.63,Credit
+10-10-2022,244.33,Taxes,Checks,None,Taxi Service,solapur,1255644.3,Debit
+10-10-2022,648.41,Pension Plans,Checks,Investments,Travel Agency,thane,1256292.71,Credit
+11-10-2022,680.82,Pension Plans,Checks,Investments,Gas Station,mumbai,1256973.52,Credit
+11-10-2022,188.86,Debt Payments,Checks,None,Gym Membership,mumbai,1256784.67,Debit
+12-10-2022,325.87,Consulting or Freelancing,Checks,Salary,Healthcare Provider,solapur,1257110.54,Credit
+12-10-2022,647.57,Consulting or Freelancing,Checks,Other,Grocery Store,thane,1257758.11,Credit
+13-10-2022,528.89,Savings and Investments,Checks,Business,Healthcare Provider,delhi,1258287,Credit
+13-10-2022,792.87,Personal Care,Mobile Payments,None,Car Repair Shop,delhi,1257494.13,Debit
+13-10-2022,458.04,Personal Care,Online Banking,None,Gym Membership,solapur,1257036.08,Debit
+13-10-2022,955.29,Part-Time Work,Online Banking,Business,Electronics Store,delhi,1257991.37,Credit
+13-10-2022,853.84,Taxes,Prepaid Debit Cards,None,Bookstore,satara,1257137.53,Debit
+13-10-2022,486.65,Personal Care,Debit Card,None,Bookstore,satara,1256650.88,Debit
+14-10-2022,794.21,Pension Plans,Debit Card,Salary,Restaurant,satara,1257445.08,Credit
+14-10-2022,143.69,Social Security,Debit Card,Business,Grocery Store,nagpur,1257588.78,Credit
+14-10-2022,473.21,Personal Care,Online Banking,None,Bookstore,satara,1257115.56,Debit
+15-10-2022,301.53,Taxes,Online Banking,None,Bookstore,thane,1256814.04,Debit
+15-10-2022,981.41,Savings and Investments,Online Banking,Business,Restaurant,satara,1257795.45,Credit
+15-10-2022,774.66,Savings and Investments,Online Banking,Salary,Healthcare Provider,thane,1258570.11,Credit
+15-10-2022,264.83,Pension Plans,Online Banking,Other,Grocery Store,delhi,1258834.94,Credit
+15-10-2022,443.48,Social Security,Online Banking,Investments,Grocery Store,delhi,1259278.42,Credit
+16-10-2022,914.05,Miscellaneous Expenses,Debit Card,None,Bookstore,pune,1258364.38,Debit
+16-10-2022,845.79,Social Security,Debit Card,Salary,Grocery Store,nagpur,1259210.17,Credit
+16-10-2022,926.57,Taxes,Debit Card,None,Coffee Shop,mumbai,1258283.6,Debit
+17-10-2022,521.02,Consulting or Freelancing,Debit Card,Business,Travel Agency,nagpur,1258804.62,Credit
+17-10-2022,332.72,Annuities,Debit Card,Investments,Restaurant,satara,1259137.35,Credit
+17-10-2022,496.96,Miscellaneous Expenses,Mobile Payments,None,Local Farmers' Market,thane,1258640.39,Debit
+18-10-2022,242.93,Miscellaneous Expenses,Debit Card,None,Taxi Service,pune,1258397.46,Debit
+18-10-2022,703.09,Social Security,Debit Card,Salary,Healthcare Provider,thane,1259100.56,Credit
+19-10-2022,767.32,Charitable Donations,Online Banking,None,Gym Membership,pune,1258333.23,Debit
+19-10-2022,371.95,Annuities,Online Banking,Salary,Utility Company,pune,1258705.18,Credit
+19-10-2022,348.49,Charitable Donations,Prepaid Debit Cards,None,Bookstore,delhi,1258356.69,Debit
+19-10-2022,612.48,Consulting or Freelancing,Prepaid Debit Cards,Business,Travel Agency,mumbai,1258969.17,Credit
+19-10-2022,267.22,Charitable Donations,Debit Card,None,Gym Membership,pune,1258701.95,Debit
+20-10-2022,255.35,Savings and Investments,Debit Card,Other,Restaurant,delhi,1258957.29,Credit
+20-10-2022,922.29,Entertainment and Leisure,Online Banking,None,Bookstore,nagpur,1258035,Debit
+20-10-2022,642.04,Savings and Investments,Online Banking,Other,Subscription Service,solapur,1258677.04,Credit
+21-10-2022,190.8,Savings and Investments,Online Banking,Salary,Gas Station,delhi,1258867.83,Credit
+21-10-2022,896.84,Insurance,Prepaid Debit Cards,None,Coffee Shop,delhi,1257971,Debit
+21-10-2022,565.12,Social Security,Prepaid Debit Cards,Business,Travel Agency,nagpur,1258536.12,Credit
+22-10-2022,988.79,Pension Plans,Prepaid Debit Cards,Business,Grocery Store,mumbai,1259524.91,Credit
+22-10-2022,74.48,Entertainment and Leisure,Debit Card,None,Car Repair Shop,pune,1259450.43,Debit
+22-10-2022,168.29,Pension Plans,Debit Card,Other,Grocery Store,satara,1259618.72,Credit
+22-10-2022,132.55,Personal Care,Checks,None,Taxi Service,thane,1259486.16,Debit
+23-10-2022,45.32,Consulting or Freelancing,Checks,Other,Utility Company,pune,1259531.48,Credit
+23-10-2022,858.28,Savings and Investments,Checks,Business,Subscription Service,nagpur,1260389.76,Credit
+23-10-2022,110.49,Annuities,Checks,Salary,Clothing Boutique,delhi,1260500.25,Credit
+24-10-2022,410.96,Social Security,Checks,Salary,Gas Station,satara,1260911.21,Credit
+24-10-2022,634.68,Consulting or Freelancing,Checks,Investments,Gas Station,delhi,1261545.89,Credit
+24-10-2022,228.19,Entertainment and Leisure,Checks,None,Car Repair Shop,nagpur,1261317.71,Debit
+24-10-2022,582.36,Debt Payments,Mobile Payments,None,ATM Withdrawal,mumbai,1260735.35,Debit
+25-10-2022,745.48,Debt Payments,Mobile Payments,None,Coffee Shop,thane,1259989.87,Debit
+25-10-2022,529.46,Part-Time Work,Mobile Payments,Investments,Travel Agency,pune,1260519.33,Credit
+25-10-2022,34.94,Consulting or Freelancing,Mobile Payments,Business,Grocery Store,satara,1260554.27,Credit
+25-10-2022,572.75,Taxes,Mobile Payments,None,Local Farmers' Market,mumbai,1259981.51,Debit
+26-10-2022,306.32,Insurance,Prepaid Debit Cards,None,Taxi Service,thane,1259675.19,Debit
+26-10-2022,304.88,Consulting or Freelancing,Prepaid Debit Cards,Salary,Utility Company,thane,1259980.08,Credit
+26-10-2022,452.96,Miscellaneous Expenses,Prepaid Debit Cards,None,Coffee Shop,mumbai,1259527.12,Debit
+26-10-2022,40.74,Charitable Donations,Online Banking,None,Bookstore,mumbai,1259486.38,Debit
+26-10-2022,574.24,Social Security,Online Banking,Salary,Restaurant,delhi,1260060.61,Credit
+27-10-2022,571.44,Miscellaneous Expenses,Online Banking,None,Coffee Shop,thane,1259489.17,Debit
+27-10-2022,412.39,Consulting or Freelancing,Online Banking,Other,Grocery Store,pune,1259901.56,Credit
+27-10-2022,899.08,Personal Care,Debit Card,None,Rent Payment,nagpur,1259002.48,Debit
+27-10-2022,525.95,Insurance,Debit Card,None,Car Repair Shop,pune,1258476.53,Debit
+27-10-2022,933.85,Taxes,Checks,None,ATM Withdrawal,mumbai,1257542.68,Debit
+27-10-2022,758.73,Debt Payments,Prepaid Debit Cards,None,Gym Membership,pune,1256783.95,Debit
+28-10-2022,735.75,Personal Care,Prepaid Debit Cards,None,ATM Withdrawal,pune,1256048.2,Debit
+28-10-2022,829.84,Consulting or Freelancing,Prepaid Debit Cards,Salary,Healthcare Provider,satara,1256878.04,Credit
+28-10-2022,355.21,Part-Time Work,Prepaid Debit Cards,Business,Subscription Service,delhi,1257233.25,Credit
+28-10-2022,622.9,Savings and Investments,Prepaid Debit Cards,Investments,Electronics Store,pune,1257856.15,Credit
+28-10-2022,184.71,Social Security,Prepaid Debit Cards,Business,Travel Agency,solapur,1258040.86,Credit
+01-11-2022,689.63,Part-Time Work,Prepaid Debit Cards,Business,Grocery Store,pune,1258730.49,Credit
+01-11-2022,404.01,Part-Time Work,Prepaid Debit Cards,Investments,Utility Company,nagpur,1259134.5,Credit
+01-11-2022,833.57,Annuities,Prepaid Debit Cards,Salary,Utility Company,satara,1259968.06,Credit
+02-11-2022,921.2,Charitable Donations,Mobile Payments,None,Bookstore,satara,1259046.87,Debit
+02-11-2022,663.27,Debt Payments,Mobile Payments,None,Taxi Service,mumbai,1258383.6,Debit
+02-11-2022,527.5,Miscellaneous Expenses,Checks,None,Car Repair Shop,solapur,1257856.1,Debit
+02-11-2022,238.9,Miscellaneous Expenses,Checks,None,Local Farmers' Market,pune,1257617.2,Debit
+02-11-2022,145.79,Annuities,Checks,Salary,Gas Station,pune,1257763,Credit
+03-11-2022,463.47,Pension Plans,Checks,Investments,Grocery Store,nagpur,1258226.47,Credit
+03-11-2022,635.8,Personal Care,Prepaid Debit Cards,None,Rent Payment,delhi,1257590.67,Debit
+03-11-2022,913.86,Insurance,Mobile Payments,None,Bookstore,satara,1256676.81,Debit
+03-11-2022,610.66,Part-Time Work,Mobile Payments,Investments,Clothing Boutique,solapur,1257287.47,Credit
+03-11-2022,845.93,Part-Time Work,Mobile Payments,Salary,Healthcare Provider,thane,1258133.4,Credit
+04-11-2022,155.48,Part-Time Work,Mobile Payments,Investments,Utility Company,nagpur,1258288.87,Credit
+04-11-2022,498.36,Consulting or Freelancing,Mobile Payments,Salary,Restaurant,pune,1258787.24,Credit
+04-11-2022,374.16,Consulting or Freelancing,Mobile Payments,Investments,Utility Company,mumbai,1259161.4,Credit
+04-11-2022,222.96,Savings and Investments,Mobile Payments,Investments,Grocery Store,thane,1259384.36,Credit
+04-11-2022,63.46,Annuities,Mobile Payments,Other,Healthcare Provider,satara,1259447.82,Credit
+05-11-2022,336.65,Pension Plans,Mobile Payments,Business,Grocery Store,nagpur,1259784.47,Credit
+05-11-2022,644.24,Insurance,Checks,None,Car Repair Shop,delhi,1259140.23,Debit
+05-11-2022,341.31,Personal Care,Mobile Payments,None,ATM Withdrawal,thane,1258798.92,Debit
+06-11-2022,927.2,Consulting or Freelancing,Mobile Payments,Business,Grocery Store,mumbai,1259726.12,Credit
+06-11-2022,585.08,Pension Plans,Mobile Payments,Other,Subscription Service,nagpur,1260311.21,Credit
+06-11-2022,507.86,Debt Payments,Mobile Payments,None,Local Farmers' Market,delhi,1259803.35,Debit
+07-11-2022,224.9,Pension Plans,Mobile Payments,Other,Subscription Service,solapur,1260028.25,Credit
+07-11-2022,235.78,Entertainment and Leisure,Online Banking,None,Bookstore,nagpur,1259792.47,Debit
+07-11-2022,186.68,Consulting or Freelancing,Online Banking,Other,Healthcare Provider,pune,1259979.16,Credit
+07-11-2022,46.93,Annuities,Online Banking,Investments,Healthcare Provider,solapur,1260026.09,Credit
+08-11-2022,877.5,Savings and Investments,Online Banking,Salary,Grocery Store,pune,1260903.59,Credit
+08-11-2022,90.94,Consulting or Freelancing,Online Banking,Salary,Electronics Store,thane,1260994.53,Credit
+08-11-2022,911.47,Personal Care,Checks,None,ATM Withdrawal,nagpur,1260083.06,Debit
+08-11-2022,631.52,Personal Care,Mobile Payments,None,ATM Withdrawal,solapur,1259451.53,Debit
+09-11-2022,304.68,Pension Plans,Mobile Payments,Other,Grocery Store,mumbai,1259756.22,Credit
+09-11-2022,187.85,Debt Payments,Mobile Payments,None,Bookstore,nagpur,1259568.36,Debit
+09-11-2022,596.2,Debt Payments,Mobile Payments,None,Gym Membership,mumbai,1258972.16,Debit
+09-11-2022,495.93,Charitable Donations,Online Banking,None,Coffee Shop,mumbai,1258476.23,Debit
+10-11-2022,562.88,Insurance,Online Banking,None,Bookstore,delhi,1257913.36,Debit
+10-11-2022,144.6,Insurance,Prepaid Debit Cards,None,Coffee Shop,thane,1257768.76,Debit
+10-11-2022,517.59,Consulting or Freelancing,Prepaid Debit Cards,Salary,Clothing Boutique,satara,1258286.35,Credit
+11-11-2022,105.99,Insurance,Mobile Payments,None,Bookstore,delhi,1258180.35,Debit
+11-11-2022,753.77,Consulting or Freelancing,Mobile Payments,Salary,Travel Agency,nagpur,1258934.13,Credit
+11-11-2022,17.61,Entertainment and Leisure,Mobile Payments,None,Bookstore,solapur,1258916.52,Debit
+11-11-2022,710.71,Part-Time Work,Mobile Payments,Investments,Restaurant,pune,1259627.23,Credit
+11-11-2022,606.94,Personal Care,Debit Card,None,Bookstore,satara,1259020.29,Debit
+12-11-2022,350.98,Personal Care,Mobile Payments,None,Rent Payment,thane,1258669.3,Debit
+12-11-2022,628.08,Charitable Donations,Mobile Payments,None,Taxi Service,satara,1258041.23,Debit
+12-11-2022,35.42,Charitable Donations,Prepaid Debit Cards,None,Coffee Shop,nagpur,1258005.81,Debit
+12-11-2022,204.19,Entertainment and Leisure,Mobile Payments,None,Car Repair Shop,pune,1257801.61,Debit
+12-11-2022,525.74,Charitable Donations,Online Banking,None,Taxi Service,thane,1257275.87,Debit
+12-11-2022,340.47,Entertainment and Leisure,Mobile Payments,None,ATM Withdrawal,pune,1256935.4,Debit
+13-11-2022,436.08,Annuities,Mobile Payments,Other,Clothing Boutique,pune,1257371.48,Credit
+13-11-2022,364.8,Part-Time Work,Mobile Payments,Salary,Gas Station,thane,1257736.27,Credit
+13-11-2022,180.14,Annuities,Mobile Payments,Investments,Grocery Store,thane,1257916.42,Credit
+13-11-2022,499.27,Miscellaneous Expenses,Online Banking,None,Rent Payment,thane,1257417.15,Debit
+13-11-2022,234.84,Annuities,Online Banking,Salary,Travel Agency,nagpur,1257651.99,Credit
+14-11-2022,500.51,Social Security,Online Banking,Investments,Healthcare Provider,nagpur,1258152.51,Credit
+14-11-2022,274.57,Miscellaneous Expenses,Prepaid Debit Cards,None,Coffee Shop,delhi,1257877.93,Debit
+14-11-2022,63.13,Insurance,Checks,None,Rent Payment,delhi,1257814.8,Debit
+15-11-2022,544.15,Pension Plans,Checks,Business,Healthcare Provider,solapur,1258358.95,Credit
+15-11-2022,198.61,Part-Time Work,Checks,Salary,Healthcare Provider,nagpur,1258557.56,Credit
+15-11-2022,492.05,Taxes,Prepaid Debit Cards,None,Rent Payment,nagpur,1258065.51,Debit
+15-11-2022,561.52,Entertainment and Leisure,Online Banking,None,Taxi Service,satara,1257503.99,Debit
+15-11-2022,57.26,Consulting or Freelancing,Online Banking,Business,Clothing Boutique,mumbai,1257561.25,Credit
+16-11-2022,899.06,Debt Payments,Checks,None,Coffee Shop,pune,1256662.19,Debit
+16-11-2022,96.75,Personal Care,Online Banking,None,Car Repair Shop,solapur,1256565.44,Debit
+17-11-2022,373.53,Pension Plans,Online Banking,Investments,Clothing Boutique,mumbai,1256938.97,Credit
+17-11-2022,812.29,Consulting or Freelancing,Online Banking,Other,Subscription Service,mumbai,1257751.26,Credit
+17-11-2022,331.37,Miscellaneous Expenses,Prepaid Debit Cards,None,Bookstore,mumbai,1257419.89,Debit
+17-11-2022,628.36,Consulting or Freelancing,Prepaid Debit Cards,Salary,Utility Company,thane,1258048.25,Credit
+18-11-2022,20.47,Consulting or Freelancing,Prepaid Debit Cards,Other,Utility Company,thane,1258068.72,Credit
+18-11-2022,631.5,Part-Time Work,Prepaid Debit Cards,Salary,Healthcare Provider,thane,1258700.23,Credit
+18-11-2022,297.58,Debt Payments,Mobile Payments,None,Rent Payment,mumbai,1258402.64,Debit
+19-11-2022,514.13,Part-Time Work,Mobile Payments,Other,Restaurant,mumbai,1258916.77,Credit
+19-11-2022,83.07,Part-Time Work,Mobile Payments,Salary,Travel Agency,delhi,1258999.84,Credit
+19-11-2022,478.81,Debt Payments,Debit Card,None,Gym Membership,nagpur,1258521.03,Debit
+20-11-2022,302.83,Insurance,Prepaid Debit Cards,None,Taxi Service,solapur,1258218.2,Debit
+20-11-2022,279.25,Miscellaneous Expenses,Mobile Payments,None,Coffee Shop,delhi,1257938.95,Debit
+20-11-2022,85.07,Part-Time Work,Mobile Payments,Investments,Utility Company,pune,1258024.01,Credit
+20-11-2022,112.7,Personal Care,Checks,None,Rent Payment,thane,1257911.32,Debit
+20-11-2022,893.39,Annuities,Checks,Business,Restaurant,solapur,1258804.71,Credit
+21-11-2022,383.92,Personal Care,Prepaid Debit Cards,None,Bookstore,mumbai,1258420.79,Debit
+21-11-2022,133.3,Savings and Investments,Prepaid Debit Cards,Salary,Electronics Store,pune,1258554.09,Credit
+21-11-2022,544.43,Social Security,Prepaid Debit Cards,Business,Travel Agency,satara,1259098.52,Credit
+21-11-2022,149.45,Social Security,Prepaid Debit Cards,Business,Travel Agency,thane,1259247.97,Credit
+21-11-2022,836.89,Pension Plans,Prepaid Debit Cards,Investments,Utility Company,delhi,1260084.86,Credit
+22-11-2022,629.72,Miscellaneous Expenses,Debit Card,None,ATM Withdrawal,mumbai,1259455.14,Debit
+22-11-2022,832.05,Debt Payments,Debit Card,None,Gym Membership,mumbai,1258623.09,Debit
+22-11-2022,160.34,Annuities,Debit Card,Investments,Utility Company,pune,1258783.43,Credit
+23-11-2022,83.61,Miscellaneous Expenses,Debit Card,None,Car Repair Shop,thane,1258699.82,Debit
+23-11-2022,733.25,Insurance,Mobile Payments,None,Local Farmers' Market,solapur,1257966.57,Debit
+23-11-2022,242.24,Charitable Donations,Prepaid Debit Cards,None,Local Farmers' Market,nagpur,1257724.32,Debit
+23-11-2022,304.31,Social Security,Prepaid Debit Cards,Other,Utility Company,satara,1258028.63,Credit
+23-11-2022,62.26,Part-Time Work,Prepaid Debit Cards,Salary,Healthcare Provider,solapur,1258090.89,Credit
+23-11-2022,808.02,Miscellaneous Expenses,Prepaid Debit Cards,None,Coffee Shop,solapur,1257282.87,Debit
+24-11-2022,208.47,Insurance,Online Banking,None,Gym Membership,pune,1257074.4,Debit
+24-11-2022,199.74,Savings and Investments,Online Banking,Business,Subscription Service,nagpur,1257274.14,Credit
+24-11-2022,649.67,Debt Payments,Online Banking,None,Local Farmers' Market,satara,1256624.47,Debit
+25-11-2022,638.59,Pension Plans,Online Banking,Salary,Utility Company,thane,1257263.06,Credit
+25-11-2022,840.53,Personal Care,Mobile Payments,None,Gym Membership,pune,1256422.53,Debit
+26-11-2022,245.43,Pension Plans,Mobile Payments,Investments,Subscription Service,nagpur,1256667.96,Credit
+26-11-2022,136.4,Debt Payments,Prepaid Debit Cards,None,Car Repair Shop,satara,1256531.56,Debit
+26-11-2022,504.25,Miscellaneous Expenses,Mobile Payments,None,Coffee Shop,pune,1256027.31,Debit
+27-11-2022,615.76,Annuities,Mobile Payments,Business,Subscription Service,satara,1256643.07,Credit
+27-11-2022,914.98,Personal Care,Prepaid Debit Cards,None,Coffee Shop,thane,1255728.09,Debit
+28-11-2022,346.94,Social Security,Prepaid Debit Cards,Other,Travel Agency,thane,1256075.03,Credit
+28-11-2022,93.25,Social Security,Prepaid Debit Cards,Salary,Clothing Boutique,thane,1256168.28,Credit
+28-11-2022,678.92,Consulting or Freelancing,Prepaid Debit Cards,Salary,Healthcare Provider,solapur,1256847.19,Credit
+28-11-2022,104.38,Consulting or Freelancing,Prepaid Debit Cards,Salary,Travel Agency,nagpur,1256951.58,Credit
+01-12-2022,82.2,Taxes,Checks,None,ATM Withdrawal,mumbai,1256869.38,Debit
+01-12-2022,760.18,Personal Care,Checks,None,Local Farmers' Market,thane,1256109.2,Debit
+02-12-2022,778.89,Part-Time Work,Checks,Salary,Travel Agency,satara,1256888.09,Credit
+02-12-2022,850.6,Savings and Investments,Checks,Investments,Travel Agency,mumbai,1257738.7,Credit
+02-12-2022,369.44,Pension Plans,Checks,Other,Grocery Store,pune,1258108.13,Credit
+02-12-2022,81.22,Part-Time Work,Checks,Business,Travel Agency,delhi,1258189.35,Credit
+03-12-2022,683.69,Consulting or Freelancing,Checks,Other,Grocery Store,satara,1258873.04,Credit
+03-12-2022,410.19,Social Security,Checks,Investments,Utility Company,nagpur,1259283.23,Credit
+03-12-2022,289.18,Miscellaneous Expenses,Checks,None,Car Repair Shop,thane,1258994.05,Debit
+03-12-2022,752.49,Savings and Investments,Checks,Salary,Clothing Boutique,mumbai,1259746.53,Credit
+03-12-2022,509.68,Miscellaneous Expenses,Online Banking,None,Local Farmers' Market,mumbai,1259236.85,Debit
+03-12-2022,352.82,Charitable Donations,Prepaid Debit Cards,None,Car Repair Shop,nagpur,1258884.03,Debit
+04-12-2022,801.16,Insurance,Checks,None,ATM Withdrawal,solapur,1258082.87,Debit
+04-12-2022,54.52,Charitable Donations,Prepaid Debit Cards,None,Local Farmers' Market,nagpur,1258028.35,Debit
+05-12-2022,464.69,Social Security,Prepaid Debit Cards,Other,Healthcare Provider,thane,1258493.04,Credit
+05-12-2022,203.86,Debt Payments,Online Banking,None,Rent Payment,nagpur,1258289.18,Debit
+05-12-2022,577.46,Part-Time Work,Online Banking,Salary,Travel Agency,satara,1258866.64,Credit
+05-12-2022,423.2,Insurance,Mobile Payments,None,Taxi Service,solapur,1258443.44,Debit
+06-12-2022,143.33,Insurance,Checks,None,Gym Membership,nagpur,1258300.11,Debit
+06-12-2022,636.06,Charitable Donations,Online Banking,None,Coffee Shop,mumbai,1257664.05,Debit
+06-12-2022,722.62,Personal Care,Prepaid Debit Cards,None,Rent Payment,nagpur,1256941.44,Debit
+06-12-2022,395.16,Debt Payments,Prepaid Debit Cards,None,Coffee Shop,delhi,1256546.27,Debit
+06-12-2022,607.77,Annuities,Prepaid Debit Cards,Salary,Clothing Boutique,thane,1257154.04,Credit
+07-12-2022,989.88,Pension Plans,Prepaid Debit Cards,Other,Clothing Boutique,satara,1258143.92,Credit
+07-12-2022,335.23,Taxes,Debit Card,None,Rent Payment,mumbai,1257808.69,Debit
+07-12-2022,361.56,Miscellaneous Expenses,Online Banking,None,ATM Withdrawal,mumbai,1257447.13,Debit
+07-12-2022,969.48,Social Security,Online Banking,Business,Grocery Store,mumbai,1258416.61,Credit
+07-12-2022,356.43,Taxes,Prepaid Debit Cards,None,ATM Withdrawal,solapur,1258060.18,Debit
+08-12-2022,378.71,Debt Payments,Debit Card,None,Coffee Shop,delhi,1257681.47,Debit
+08-12-2022,182.46,Social Security,Debit Card,Business,Restaurant,pune,1257863.93,Credit
+09-12-2022,792.3,Debt Payments,Online Banking,None,Gym Membership,nagpur,1257071.63,Debit
+09-12-2022,701.47,Miscellaneous Expenses,Online Banking,None,Taxi Service,solapur,1256370.15,Debit
+09-12-2022,798.57,Debt Payments,Mobile Payments,None,Local Farmers' Market,thane,1255571.58,Debit
+10-12-2022,467.76,Pension Plans,Mobile Payments,Other,Grocery Store,thane,1256039.34,Credit
+10-12-2022,324.29,Debt Payments,Online Banking,None,Car Repair Shop,mumbai,1255715.05,Debit
+10-12-2022,531.45,Charitable Donations,Online Banking,None,Gym Membership,mumbai,1255183.6,Debit
+10-12-2022,777.58,Part-Time Work,Online Banking,Business,Travel Agency,mumbai,1255961.18,Credit
+10-12-2022,833.72,Part-Time Work,Online Banking,Business,Electronics Store,pune,1256794.9,Credit
+10-12-2022,674.2,Consulting or Freelancing,Online Banking,Salary,Utility Company,satara,1257469.11,Credit
+11-12-2022,200.44,Debt Payments,Prepaid Debit Cards,None,Taxi Service,mumbai,1257268.67,Debit
+11-12-2022,738.51,Taxes,Online Banking,None,Bookstore,satara,1256530.16,Debit
+11-12-2022,502.39,Annuities,Online Banking,Investments,Utility Company,mumbai,1257032.55,Credit
+11-12-2022,687.14,Social Security,Online Banking,Business,Travel Agency,solapur,1257719.69,Credit
+11-12-2022,766.78,Savings and Investments,Online Banking,Salary,Restaurant,thane,1258486.47,Credit
+12-12-2022,663.24,Insurance,Debit Card,None,Taxi Service,satara,1257823.24,Debit
+12-12-2022,533.85,Savings and Investments,Debit Card,Salary,Healthcare Provider,delhi,1258357.08,Credit
+12-12-2022,17.83,Pension Plans,Debit Card,Other,Electronics Store,satara,1258374.92,Credit
+12-12-2022,4.69,Insurance,Online Banking,None,Coffee Shop,pune,1258370.23,Debit
+13-12-2022,730.52,Entertainment and Leisure,Online Banking,None,Coffee Shop,pune,1257639.71,Debit
+13-12-2022,69.54,Pension Plans,Online Banking,Other,Utility Company,mumbai,1257709.24,Credit
+13-12-2022,474.97,Pension Plans,Online Banking,Investments,Electronics Store,nagpur,1258184.21,Credit
+13-12-2022,861.58,Debt Payments,Online Banking,None,Coffee Shop,delhi,1257322.63,Debit
+13-12-2022,496.26,Charitable Donations,Mobile Payments,None,ATM Withdrawal,solapur,1256826.37,Debit
+14-12-2022,375.4,Taxes,Checks,None,Rent Payment,nagpur,1256450.97,Debit
+14-12-2022,507.97,Personal Care,Debit Card,None,Bookstore,nagpur,1255942.99,Debit
+14-12-2022,566.97,Annuities,Debit Card,Business,Utility Company,nagpur,1256509.96,Credit
+14-12-2022,132.74,Entertainment and Leisure,Debit Card,None,Coffee Shop,thane,1256377.22,Debit
+14-12-2022,659.87,Taxes,Checks,None,Car Repair Shop,delhi,1255717.35,Debit
+14-12-2022,823.39,Annuities,Checks,Other,Electronics Store,nagpur,1256540.74,Credit
+15-12-2022,629.74,Personal Care,Debit Card,None,Local Farmers' Market,delhi,1255911.01,Debit
+15-12-2022,330.04,Charitable Donations,Checks,None,ATM Withdrawal,nagpur,1255580.96,Debit
+15-12-2022,352.55,Insurance,Mobile Payments,None,Gym Membership,pune,1255228.41,Debit
+16-12-2022,742.52,Consulting or Freelancing,Mobile Payments,Business,Restaurant,delhi,1255970.93,Credit
+16-12-2022,797.43,Consulting or Freelancing,Mobile Payments,Investments,Utility Company,thane,1256768.36,Credit
+16-12-2022,994.85,Insurance,Prepaid Debit Cards,None,Rent Payment,pune,1255773.51,Debit
+17-12-2022,548.67,Social Security,Prepaid Debit Cards,Investments,Subscription Service,nagpur,1256322.17,Credit
+17-12-2022,679.58,Annuities,Prepaid Debit Cards,Salary,Healthcare Provider,solapur,1257001.75,Credit
+17-12-2022,454.93,Entertainment and Leisure,Debit Card,None,Coffee Shop,mumbai,1256546.83,Debit
+18-12-2022,78.29,Debt Payments,Prepaid Debit Cards,None,Coffee Shop,thane,1256468.54,Debit
+18-12-2022,186.17,Social Security,Prepaid Debit Cards,Other,Travel Agency,solapur,1256654.71,Credit
+18-12-2022,648.81,Consulting or Freelancing,Prepaid Debit Cards,Salary,Grocery Store,thane,1257303.52,Credit
+18-12-2022,769.35,Insurance,Mobile Payments,None,Local Farmers' Market,nagpur,1256534.17,Debit
+19-12-2022,767.76,Annuities,Mobile Payments,Other,Gas Station,mumbai,1257301.93,Credit
+19-12-2022,744.47,Insurance,Checks,None,Rent Payment,nagpur,1256557.46,Debit
+19-12-2022,28.28,Insurance,Checks,None,Taxi Service,delhi,1256529.18,Debit
+19-12-2022,457.68,Annuities,Checks,Salary,Restaurant,nagpur,1256986.86,Credit
+19-12-2022,391.99,Charitable Donations,Debit Card,None,Car Repair Shop,solapur,1256594.87,Debit
+20-12-2022,967.15,Consulting or Freelancing,Debit Card,Investments,Travel Agency,satara,1257562.01,Credit
+20-12-2022,885.04,Annuities,Debit Card,Business,Gas Station,nagpur,1258447.06,Credit
+20-12-2022,923.85,Taxes,Debit Card,None,Coffee Shop,pune,1257523.2,Debit
+20-12-2022,91.19,Consulting or Freelancing,Debit Card,Salary,Gas Station,mumbai,1257614.39,Credit
+21-12-2022,121.26,Social Security,Debit Card,Salary,Electronics Store,solapur,1257735.65,Credit
+21-12-2022,288.28,Personal Care,Mobile Payments,None,Car Repair Shop,satara,1257447.38,Debit
+21-12-2022,526.42,Charitable Donations,Online Banking,None,Bookstore,thane,1256920.96,Debit
+21-12-2022,940.9,Miscellaneous Expenses,Mobile Payments,None,Car Repair Shop,nagpur,1255980.06,Debit
+22-12-2022,83.62,Charitable Donations,Mobile Payments,None,Coffee Shop,delhi,1255896.44,Debit
+22-12-2022,578.86,Consulting or Freelancing,Mobile Payments,Business,Gas Station,thane,1256475.3,Credit
+22-12-2022,670.74,Part-Time Work,Mobile Payments,Investments,Restaurant,thane,1257146.04,Credit
+22-12-2022,644.06,Social Security,Mobile Payments,Salary,Grocery Store,satara,1257790.11,Credit
+22-12-2022,449.63,Annuities,Mobile Payments,Business,Subscription Service,thane,1258239.73,Credit
+23-12-2022,742.86,Consulting or Freelancing,Mobile Payments,Investments,Healthcare Provider,pune,1258982.59,Credit
+23-12-2022,722.15,Part-Time Work,Mobile Payments,Salary,Travel Agency,delhi,1259704.74,Credit
+23-12-2022,204.36,Miscellaneous Expenses,Debit Card,None,ATM Withdrawal,solapur,1259500.38,Debit
+24-12-2022,209.15,Taxes,Prepaid Debit Cards,None,ATM Withdrawal,nagpur,1259291.22,Debit
+24-12-2022,735.55,Personal Care,Prepaid Debit Cards,None,Gym Membership,pune,1258555.67,Debit
+24-12-2022,189.34,Miscellaneous Expenses,Online Banking,None,Rent Payment,satara,1258366.33,Debit
+25-12-2022,373.22,Entertainment and Leisure,Mobile Payments,None,Local Farmers' Market,pune,1257993.11,Debit
+25-12-2022,373.7,Debt Payments,Online Banking,None,Taxi Service,delhi,1257619.41,Debit
+25-12-2022,390.58,Entertainment and Leisure,Checks,None,ATM Withdrawal,delhi,1257228.83,Debit
+26-12-2022,17.29,Personal Care,Debit Card,None,Rent Payment,pune,1257211.54,Debit
+26-12-2022,781.41,Charitable Donations,Prepaid Debit Cards,None,Local Farmers' Market,delhi,1256430.13,Debit
+26-12-2022,346.54,Insurance,Prepaid Debit Cards,None,Gym Membership,nagpur,1256083.59,Debit
+26-12-2022,475.76,Pension Plans,Prepaid Debit Cards,Salary,Subscription Service,nagpur,1256559.35,Credit
+26-12-2022,771.7,Taxes,Mobile Payments,None,ATM Withdrawal,nagpur,1255787.65,Debit
+27-12-2022,814.95,Consulting or Freelancing,Mobile Payments,Salary,Travel Agency,solapur,1256602.6,Credit
+27-12-2022,241.57,Pension Plans,Mobile Payments,Business,Restaurant,solapur,1256844.17,Credit
+27-12-2022,215.11,Pension Plans,Mobile Payments,Investments,Grocery Store,mumbai,1257059.28,Credit
+27-12-2022,735.43,Miscellaneous Expenses,Checks,None,Local Farmers' Market,solapur,1256323.85,Debit
+27-12-2022,807.98,Debt Payments,Prepaid Debit Cards,None,ATM Withdrawal,satara,1255515.88,Debit
+27-12-2022,603.34,Insurance,Online Banking,None,Gym Membership,mumbai,1254912.54,Debit
+28-12-2022,685.92,Consulting or Freelancing,Online Banking,Salary,Healthcare Provider,thane,1255598.46,Credit
+28-12-2022,726.46,Pension Plans,Online Banking,Other,Electronics Store,solapur,1256324.92,Credit
+28-12-2022,395.57,Charitable Donations,Checks,None,Local Farmers' Market,satara,1255929.35,Debit
+28-12-2022,682.44,Personal Care,Mobile Payments,None,ATM Withdrawal,satara,1255246.91,Debit
