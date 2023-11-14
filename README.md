@@ -2,7 +2,7 @@
  
 Hello Everyone!
 Team HackingParadox presents you,
-The Robust AI based management system especially for Retirees
+The Robust AI based Finance management system (especially for Retirees)
 
 ## Overview
 
