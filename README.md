@@ -40,12 +40,11 @@ This project focuses on using LLM and Generative AI in summarizing the analyzed 
 3. Open cmd in the same local directory and run following command-
     streamlit run Dashboard.py
 4. You will have a website hosted on your localhost.
-
-
-   ~made with ❤️ by Team Hacking Paradox
-6. Upload the transactional dataset.
-7. Yayyy! You have succesfully analyzed your transactionsal data.
-8. Explore the website more for using other features.
+5. Upload the transactional dataset.
+6. Yayyy! You have succesfully analyzed your transactionsal data.
+7. Explore the website more for using other features.
 
 
    
+
+   ~made with ❤️ by Team Hacking Paradox
