@@ -52,4 +52,4 @@ This project focuses on using LLM and Generative AI in summarizing the analyzed 
 
    
 
-   ~made with ❤️ by Team Hacking Paradox
+   ~made with ❤️ by Team HackingParadox
