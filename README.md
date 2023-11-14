@@ -32,6 +32,11 @@ This project focuses on using LLM and Generative AI in summarizing the analyzed 
 ### Prerequisites
 
 - Python (3.7 or higher)
+- Streamlit
+- Pandas
+- Scipy
+- Plotly
+- Numpy
 
 ### Installation
 
