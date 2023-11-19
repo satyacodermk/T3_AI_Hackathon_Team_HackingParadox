@@ -2,6 +2,12 @@
 ## Video of Prototype
 Please [Click Here](https://1drv.ms/v/s!AnNJBheLBjN1hLdv1VVPJ03C_TAsXQ?e=w0F1cB) to watch the working of the project 
 
+Hello Everyone!
+
+Team HackingParadox presents you,
+
+The Robust AI based Finance management system (especially for Retirees)
+
 ## Glances of Project
 
 ![image](https://github.com/satyacodermk/T3_AI_Hackathon_Team_HackingParadox/assets/98695336/d5f15678-bcd1-42a0-98fb-1d1fcc32915a)
@@ -12,9 +18,7 @@ Please [Click Here](https://1drv.ms/v/s!AnNJBheLBjN1hLdv1VVPJ03C_TAsXQ?e=w0F1cB)
 
 ![image](https://github.com/satyacodermk/T3_AI_Hackathon_Team_HackingParadox/assets/98695336/6915df04-c194-4a8d-a9a4-76c50288117a)
 
-Hello Everyone!
-Team HackingParadox presents you,
-The Robust AI based Finance management system (especially for Retirees)
+
 
 ## Overview
 
