@@ -3,9 +3,6 @@
 Please [Click Here](https://1drv.ms/v/s!AnNJBheLBjN1hLdv1VVPJ03C_TAsXQ?e=w0F1cB) to watch the working of the project 
 
 ## Glances of Project
-![image](https://github.com/satyacodermk/T3_AI_Hackathon_Team_HackingParadox/assets/98695336/d9920dab-0a5f-4cb9-ada6-775ff8f9ae51)
-
-![image](https://github.com/satyacodermk/T3_AI_Hackathon_Team_HackingParadox/assets/98695336/e894e2c5-dcf3-4bd9-9a2b-1568a15ae2f2)
 
 ![image](https://github.com/satyacodermk/T3_AI_Hackathon_Team_HackingParadox/assets/98695336/092f4f26-b4d6-4fc0-b281-fb526b6e6888)
 
