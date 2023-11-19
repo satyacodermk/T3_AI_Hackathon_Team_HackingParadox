@@ -141,7 +141,7 @@ def main():
     if st.button("Build Road Map"):
         # combine all collected informatino to generate prompt
         prompt=gp.getGoalPromptBaseTemplate(financialBackground=financial_background,financialGoals=financial_goals,investmentPreference=investment_preferences,healthConsideration=health_considerations,savingHabits=savingHabits,experienceInInvestments=experienceInvestments,futureIncomeStreams=futureIncomeStreams,knowledgeEducation=knowledgeEdu,legalAndFamilyConsiderations=familyConsiderations,lifestyleAndPreference=lifeStyleAndPreferences)
-        st.header("Prompt Generated")
+        st.header("Proposed Roadmap")
         st.write(gpt.generate_response(prompt))
 
     
