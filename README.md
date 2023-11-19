@@ -11,7 +11,7 @@ The Robust AI based Finance management system (especially for Retirees)
 This repository contains code and resources for performing comprehensive analysis on financial transaction data. The project aims to provide valuable insights into spending patterns, income sources, and various financial aspects. The analysis is conducted using Python with pandas, NumPy, and Plotly, and includes multiple types of analyses, visualizations, and optimizations.
 And most importantly there's something more in this
 The Golden Base Line of AI
-AI helps the retiree to comprehend the analysis done on his/her data and helps to create a safe and user-friendly environment to interact with the system and resolve the queries regarding anything
+which helps the retiree to comprehend the analysis done on his/her data and helps to create a safe and user-friendly environment to interact with the system and resolve the queries regarding anything
 
 AI helps to optimize the Expenditure and plan robust and strategical financial plans to grow Money at the same time!
 
