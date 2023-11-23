@@ -14,6 +14,7 @@ from numpy.random import default_rng
 import numpy_financial as npf
 from numpy.ma.extras import average
 import genPrompt
+import output_visualize as localgpt
 tsaobj=genPrompt.TransPrompt()
 from genAiUtils import gptLLM
 #Enter your API Key Here
@@ -124,8 +125,6 @@ if fl is not None:
     st.write("\n")
     st.write("\n")
     
-    st.write(gpt.generate_response(tsaobj.getStatAnalysisPrompt(parametersForAPI())))
-
     # parametersForAPI()
     credit_df = df[df["Credit/Debit"] == "Credit"]
     debit_df = df[df["Credit/Debit"] == "Debit"]
@@ -176,9 +175,9 @@ if fl is not None:
     'expenditure_for_month': {total_debit_amount}
     }
     }
-    prompt_for_income_VS_Expenditure=tsaobj.getCreditDebitSummaryPrompt(credit_details=cd,debit_details=dd)
-    st.write(gpt.generate_response(prompt_for_income_VS_Expenditure))
-        
+    # prompt_for_income_VS_Expenditure=tsaobj.getCreditDebitSummaryPrompt(credit_details=cd,debit_details=dd)
+    # st.write(gpt.generate_response(prompt_for_income_VS_Expenditure))
+    st.write(localgpt.creditdebitsummary())    
     tab1, tab2 = st.tabs(["Income Analysis", "Expenditure Analysis"])
     with tab1:
         st.title("Income Analysis")
@@ -222,7 +221,8 @@ if fl is not None:
                 )
                 st.plotly_chart(fig)
             st.subheader("Generative AI Summary: ")
-            st.write(gpt.generate_response(tsaobj.getMerchantAnalysisPrompt(1,merchant_credit,'credit')))
+            # st.write(gpt.generate_response(tsaobj.getMerchantAnalysisPrompt(1,merchant_credit,'credit')))
+            st.write(localgpt.merchantanalysis())
 
 
 
@@ -241,7 +241,8 @@ if fl is not None:
                 )
                 st.plotly_chart(fig_location)
             st.subheader("Generative AI Summary: ")
-            st.write(gpt.generate_response(tsaobj.getLocAnalysisPrompt(1,location_debits,'credit')))
+            # st.write(gpt.generate_response(tsaobj.getLocAnalysisPrompt(1,location_debits,'credit')))
+            st.write(localgpt.locationanalysis())
             
             
             
@@ -265,7 +266,6 @@ if fl is not None:
                 fig.update_layout(title="Credit Amount by Payment Method")
                 st.plotly_chart(fig)
             st.subheader("Generative AI Summary: ")
-             
             st.write(gpt.generate_response(tsaobj.getPaymentMethodAnalysisPrompt(1,payment_data,'credit')))
 
 
@@ -288,8 +288,9 @@ if fl is not None:
                 fig.update_layout(title="Credit Amount by Transaction Category")
                 st.plotly_chart(fig)
             st.subheader("Generative AI Summary: ")
+            # st.write(gpt.generate_response(tsaobj.getCategoryAnalysisPrompt(1,category_data,'credit')))
+            st.write(localgpt.categorysummary())
              
-            st.write(gpt.generate_response(tsaobj.getCategoryAnalysisPrompt(1,category_data,'credit')))
             
 
 
@@ -328,8 +329,9 @@ if fl is not None:
                 )
                 st.plotly_chart(fig_merchant)
             st.subheader("Generative AI Summary: ")
+            # st.write(gpt.generate_response(tsaobj.getMerchantAnalysisPrompt(1,merchant_debits,'debit')))
+            st.write(localgpt.merchantanalysis_debit())
              
-            st.write(gpt.generate_response(tsaobj.getMerchantAnalysisPrompt(1,merchant_debits,'debit')))
 
         # 3. Debit Transactions by Location
         with st.expander("Debit Transactions by Location"):
@@ -347,8 +349,8 @@ if fl is not None:
                 )
                 st.plotly_chart(fig_location)
             st.subheader("Generative AI Summary: ")
-             
-            st.write(gpt.generate_response(tsaobj.getLocAnalysisPrompt(1,location_debits,'debit')))
+            # st.write(gpt.generate_response(tsaobj.getLocAnalysisPrompt(1,location_debits,'debit')))
+            st.write(localgpt.locationanalysis_debit())
 
         # 4. Debit Transactions by Payment Method
         with st.expander("Debit Transactions by Payment Method"):
@@ -368,8 +370,9 @@ if fl is not None:
                 )
                 st.plotly_chart(fig_payment_method)
             st.subheader("Generative AI Summary: ")
+            # st.write(gpt.generate_response(tsaobj.getPaymentMethodAnalysisPrompt(1,payment_method_debits,'debit')))
+            st.write(localgpt.transmodeanalysis_debit())
              
-            st.write(gpt.generate_response(tsaobj.getPaymentMethodAnalysisPrompt(1,payment_method_debits,'debit')))
 
         # 5. Debit Transactions by Category
         with st.expander("Debit Transactions by Category"):
@@ -389,8 +392,8 @@ if fl is not None:
                 )
                 st.plotly_chart(fig_category)
             st.subheader("Generative AI Summary: ")
-             
-            st.write(gpt.generate_response(tsaobj.getCategoryAnalysisPrompt(1,category_debits,'debit')))
+            # st.write(gpt.generate_response(tsaobj.getCategoryAnalysisPrompt(1,category_debits,'debit')))
+            st.write(localgpt.categorysummary_debit())
 
         # # 6. Time-based Analysis
         # st.header("Time-based Analysis")

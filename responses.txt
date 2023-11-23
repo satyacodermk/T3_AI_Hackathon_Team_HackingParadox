@@ -1,0 +1,13 @@
+
+        Below numerical data represent the payment method used while doing transaction happend that involved in process of transaction for one month,
+              Transaction_Type  Transaction_Amount
+0               Checks             2791.24
+1           Debit Card             1944.12
+2      Mobile Payments             3346.74
+3       Online Banking             1535.10
+4  Prepaid Debit Cards             1846.25
+        
+        provide the insights for above details by analyzing given data, includes only following formatted output, do not explain it in more depth just predict it and provide 
+        for Debit transactions: [maximum transaction Debited by which payment method?, minimum transaction Debited by which payment method?, which payment method is most suitable for user?]
+        and at end provide 2-4 lines suggestion about payment method usage to improve transactions
+        

@@ -10,7 +10,6 @@ class TransPrompt:
     def getCreditDebitSummaryPrompt(self,credit_details,debit_details,period=1):
         self.prompt=f"""
         The below numerical data is present in the form of a python dictionary, representing credit and debit details for {period} month:
-        python:
         {credit_details},
         {debit_details},
         provide the insights for above details, includes only foll0wing formatted output, do not explain it in more depth just calculate it and provide
@@ -23,7 +22,7 @@ class TransPrompt:
     
     def getCategoryAnalysisPrompt(self,period,catdict,type):
         self.prompt=f"""
-        Below given is the dataframe representing the category wise analysis for {period} month,
+        Below given is the csv data representing the category wise analysis for {period} month,
         {catdict}
         Give me the insights of this analysis that includes maximum {type}ed for which category, minimum {type}ed for which category and which category will help me to generate maximum credit or which category is increasing my expenditure? 
         and at end provide 2-4 lines suggestion about Category wise analysis 
